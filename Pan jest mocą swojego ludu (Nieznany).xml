@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-03T19:28:38">
+  <properties>
+    <titles>
+      <title>Pan jest mocą swojego ludu</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>P<chord name="Hm"/>an j<chord name="A"/>est <chord name="D"/>mocą swojego <chord name="G"/>lu<chord name="A"/>du.<br/>P<chord name="Hm"/>ie<chord name="A"/>śnią m<chord name="D"/>oją jest <chord name="A"/>Pan.<br/>Moja t<chord name="G"/>arcza <chord name="F#"/>i mo<chord name="Hm"/>ja moc.<br/>On <chord name="A"/>jest my<chord name="D"/>m Bogiem, <chord name="G"/>nie j<chord name="A"/>estem sam,<br/>W Ni<chord name="F#m"/>m mo<chord name="Hm"/>ja siła, n<chord name="G"/>ie <chord name="A"/>jes<chord name="D"/>tem sam.</lines>
+    </verse>
+  </lyrics>
+</song>
