@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Błoto</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="Em"/>Gdyś mnie z błota lepił, wie<chord name="C"/>działeś,</lines>
+      <lines break="optional"><chord name="D"/>że do błota uporczywie</lines>
+      <lines break="optional"><chord name="Hm"/>będę wracał.<br/><br/><chord name="C"/>Pierwszy raz,</lines>
+      <lines break="optional">gdyś <chord name="Am"/>tchnął we mnie życie,</lines>
+      <lines><chord name="H"/>wiedziałeś.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="Em"/>Że mnie całe życie <chord name="C"/>stwarzać trzeba,<br/><chord name="D"/>co sekundę ze <chord name="Hm"/>śmierci podnosić</lines>
+      <lines break="optional"><chord name="C"/>i od<chord name="H"/>ratowywać.<br/><br/><chord name="Em"/>Pierwszy raz, gdy mnie <chord name="C"/>dotykałeś,<br/><chord name="D"/>by już więcej swoich palców</lines>
+      <lines><chord name="Hm"/>ze mnie nie zdjąć<br/><chord name="D"/>wiedziałeś, kim <chord name="Hm"/>jestem i dla<chord name="Em"/>czego.</lines>
+    </verse>
+  </lyrics>
+</song>

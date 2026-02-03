@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Duchu Święty przyjdź</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Duchu <chord name="G"/>Święty, <chord name="D"/>przyjdź!<br/><br/><chord name="D"/>Duchu <chord name="G"/>Święty, <chord name="A"/>przyjdź!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech w<chord name="G"/>iara zag<chord name="D"/>ości!<br/><br/>Nad<chord name="G"/>zieja za<chord name="D"/>gości!<br/><br/>Niech m<chord name="G"/>iłość zag<chord name="D"/>ości w n<chord name="A"/>as!</lines>
+    </verse>
+  </lyrics>
+</song>

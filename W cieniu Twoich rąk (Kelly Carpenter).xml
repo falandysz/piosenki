@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>W cieniu Twoich rąk</title>
+    </titles>
+    <authors>
+      <author type="words">Kelly Carpenter</author>
+      <author type="music">Kelly Carpenter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="G"/>W cieniu Twoich <chord name="C"/>rąk</lines>
+      <lines break="optional"><chord name="D"/>ukryj, proszę,<chord name="G"/> mnie.<br/><chord name="D"/>Gdy boję się, gdy <chord name="C"/>wokół mrok<chord name="Em"/>,</lines>
+      <lines>bądź światłem, bądź <chord name="C"/>nadziei dniem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="G"/>Wszystkim, o czym <chord name="C"/>śnię<chord name="D"/>,</lines>
+      <lines break="optional">głosem w sercu <chord name="G"/>mym,<br/><chord name="D"/>jak ręka, która <chord name="C"/>trzyma mnie</lines>
+      <lines break="optional"><chord name="Em"/>nad brzegiem nocy<chord name="C"/>, brzegiem dni.<br/><br/><chord name="G"/>Bądź jak skrzydła d<chord name="C"/>wa,</lines>
+      <lines><chord name="D"/>kiedy braknie<chord name="G"/> sił.<chord name="Em"/><chord name="D"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"><chord name="G"/>Chwyć m<chord name="D"/>nie i n<chord name="C"/>ieś!<br/><br/><chord name="G"/>Niech <chord name="D"/>niebo b<chord name="C"/>liżej b<chord name="D"/>ędzie!<br/><br/>T<chord name="G"/>ak b<chord name="D"/>ardzo c<chord name="C"/>hcę</lines>
+      <lines><chord name="Am"/>w ramionach s<chord name="D"/>kryć się T<chord name="G"/>wych.</lines>
+    </verse>
+  </lyrics>
+</song>

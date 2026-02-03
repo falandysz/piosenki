@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-09T11:38:22">
+  <properties>
+    <titles>
+      <title>Uwielbiam Imię Twoje Panie</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Uwielbiam imię <chord name="C9"/>Twoje <chord name="D"/>Panie!<br/>Wy<chord name="G"/>wyższam Cię i <chord name="C9"/>składam Ci <chord name="D"/>hołd!<br/><chord name="Em"/>W przedsionku chwały Twej <chord name="C"/>staję!<br/><chord name="Am"/>Z radością śpiewam Ci <chord name="D"/>pieśń!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">O Panie <chord name="G"/>Jezu <chord name="C"/>chcę wyznać, <chord name="D"/>że<br/>ja kocham <chord name="G"/>Ciebie.</lines>
+      <lines><chord name="C"/>Ty zmieniasz mni<chord name="D"/>e.<br/>Chcę Ci dzię<chord name="G"/>kować z<chord name="C"/>e wszystkich s<chord name="D"/>ił.<br/>Dajesz mi s<chord name="Em"/>iebie bym na wieki ż<chord name="D"/>ył.</lines>
+    </verse>
+  </lyrics>
+</song>

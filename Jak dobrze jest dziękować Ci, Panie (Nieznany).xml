@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Jak dobrze jest dziękować Ci, Panie</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jak <chord name="Am"/>dobrze jest dziękować Ci, <chord name="Dm"/>Panie<br/>i <chord name="G7"/>śpiewać psalm Twojemu <chord name="C"/>Imieniu.<br/>I <chord name="Am"/>opowiadać rano</lines>
+      <lines break="optional"><chord name="A"/>Twoje <chord name="Dm"/>miłosierdzie,<br/>a w <chord name="A"/>nocy wierność Twoją <chord name="E"/></lines>
+      <lines>przy dziesięciostrunnej <chord name="F"/>harfie<br/>i <chord name="Dm"/>lutni, i <chord name="Am"/>dźwięcznej <chord name="E"/>cytrze.</lines>
+    </verse>
+  </lyrics>
+</song>

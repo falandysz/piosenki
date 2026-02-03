@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Twoja miłość</title>
+    </titles>
+    <authors>
+      <author type="words">Joahim Mencel</author>
+      <author type="music">Joahim Mencel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">J<chord name="Hm"/>esteś blisko mnie,</lines>
+      <lines break="optional"><chord name="A"/>a tęsknię za Duchem<chord name="E"/> Twym.<br/>K<chord name="Hm"/>ocham kroki Twe<chord name="A"/></lines>
+      <lines break="optional">i wiem jak pukasz do <chord name="E"/>drzwi.<br/><chord name="G7+"/>Przychodzisz <chord name="D"/>jak ciepły <chord name="E"/>wiat<chord name="D"/>r.</lines>
+      <lines>Otwier<chord name="A"/>am się i cz<chord name="C"/>uję zn<chord name="F#"/>ów, że</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">T<chord name="Hm"/>woja miłość, jak c<chord name="Em"/>iepły d<chord name="F#"/>eszcz,<br/>T<chord name="Hm"/>woja miłość, jak m<chord name="G7"/>orze g<chord name="A"/>wiazd</lines>
+      <lines>z<chord name="Dm"/>a dnia,<br/>Twoja m<chord name="Hm"/>iłość sprawia<chord name="C#m"/>, że nies<chord name="F#"/>kończenie Dobr<chord name="Hm"/>y Święty Duch<br/>o<chord name="G"/>ga<chord name="F#m"/>rnia mn<chord name="Hm"/>ie.</lines>
+    </verse>
+  </lyrics>
+</song>

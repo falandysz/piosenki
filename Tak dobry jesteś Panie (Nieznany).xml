@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Tak dobry jesteś Panie</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tak <chord name="Dm7"/>dobry jesteś, Panie!<br/>Tak <chord name="Hm7"/>dobry jesteś, Panie!<br/>Tak <chord name="G9"/>dobry <chord name="A9"/>jesteś <chord name="D"/>Panie nasz!<br/><br/>Uwielbiamy <chord name="A"/>Cię!<br/><chord name="G"/>Dziękujemy Ci!<chord name="D"/><chord name="A/C#"/><br/><chord name="Hm7"/>Za Twoją <chord name="A"/>łaskę,<br/><chord name="G"/>za Twoją <chord name="D"/>moc!</lines>
+    </verse>
+  </lyrics>
+</song>

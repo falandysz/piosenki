@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Wśród nocnej ciszy</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">W<chord name="C"/>śród n<chord name="G"/>ocnej c<chord name="C"/>iszy</lines>
+      <lines break="optional">g<chord name="C"/>łos się r<chord name="G"/>ozcho<chord name="C"/>dzi: <br/>"W<chord name="C"/>stańc<chord name="G"/>ie, pas<chord name="C"/>terze,</lines>
+      <lines>B<chord name="C"/>óg się w<chord name="G"/>am rod<chord name="C"/>zi". <br/><br/>"C<chord name="C"/>zym pręd<chord name="Am"/>zej się w<chord name="F"/>ybiera<chord name="G"/>jcie, <br/>d<chord name="C"/>o Bet<chord name="Am"/>lejem p<chord name="F"/>ośpies<chord name="G"/>zajcie <br/>p<chord name="C"/>rzywit<chord name="G"/>ać Pan<chord name="C"/>a, p<chord name="C"/>rzywit<chord name="G"/>ać Pa<chord name="C"/>na".</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">P<chord name="C"/>os<chord name="G"/>zli, zna<chord name="C"/>leźli</lines>
+      <lines break="optional">D<chord name="C"/>zieciątk<chord name="G"/>o w żłob<chord name="C"/>ie <br/>z w<chord name="C"/>szyst<chord name="G"/>kimi z<chord name="C"/>naki</lines>
+      <lines>da<chord name="C"/>nym<chord name="G"/>i sobi<chord name="C"/>e. <br/><br/>J<chord name="C"/>ako B<chord name="Am"/>ogu c<chord name="F"/>ześć Mu da<chord name="G"/>li, <br/>a<chord name="C"/> wit<chord name="Am"/>ając z<chord name="F"/>awoł<chord name="G"/>ali <br/>z w<chord name="C"/>ielkiej r<chord name="G"/>adośc<chord name="C"/>i, z w<chord name="C"/>ielkiej ra<chord name="G"/>dośc<chord name="C"/>i:</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">"A<chord name="C"/>ch w<chord name="G"/>itaj, Z<chord name="C"/>bawco,</lines>
+      <lines break="optional">z d<chord name="C"/>awna ż<chord name="G"/>ąda<chord name="C"/>ny, <br/>c<chord name="C"/>zter<chord name="G"/>y tys<chord name="C"/>iące</lines>
+      <lines>l<chord name="C"/>at wy<chord name="G"/>gląda<chord name="C"/>ny. <br/><br/>N<chord name="C"/>a Ciebi<chord name="Am"/>e król<chord name="F"/>e, proro<chord name="G"/>cy <br/>c<chord name="C"/>zekali<chord name="Am"/>, a T<chord name="F"/>yś tej n<chord name="G"/>ocy <br/>n<chord name="C"/>am się o<chord name="G"/>bjaw<chord name="C"/>ił, n<chord name="C"/>am się o<chord name="G"/>bjawi<chord name="C"/>ł."</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">I<chord name="C"/> m<chord name="G"/>y cze<chord name="C"/>kamy</lines>
+      <lines break="optional">n<chord name="C"/>a Cie<chord name="G"/>bie Pa<chord name="C"/>na.<br/><br/>A<chord name="C"/> s<chord name="G"/>koro p<chord name="C"/>rzyjdziesz</lines>
+      <lines>n<chord name="C"/>a głos k<chord name="G"/>apła<chord name="C"/>na,<br/>p<chord name="C"/>adniem<chord name="Am"/>y na t<chord name="F"/>warz przed To<chord name="G"/>bą, <br/>wie<chord name="C"/>rząc, ż<chord name="Am"/>eś jest p<chord name="F"/>od os<chord name="G"/>obą <br/>c<chord name="C"/>hleba i<chord name="G"/> win<chord name="C"/>a, c<chord name="C"/>hleba i w<chord name="G"/>in<chord name="C"/>a.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Jezus, Najwyższe Imię</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Jezus, <chord name="Em"/>Najwyższe <chord name="Am"/>Imię,<br/>Nasz Zba<chord name="Dm"/>wiciel, Książę Po<chord name="G"/>koju,<br/>Emm<chord name="C"/>anuel, <chord name="Em"/>Bóg jest z <chord name="Am"/>nami,<br/>Odku<chord name="Dm"/>piciel, <chord name="G"/>Słowo Ży<chord name="C"/>wota! <chord name="C7"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="F"/>Święty Bóg, <chord name="G"/>Mesjasz Praw<chord name="C"/>dziwy, <chord name="Am"/><br/>Jedyny <chord name="Dm"/>Ojca Syn <chord name="G"/>umiło<chord name="C"/>wa<chord name="C7"/>ny<br/><chord name="F"/>zgładził grzech <chord name="G"/>Baranek na <chord name="C"/>wieki, <chord name="Am"/><br/>Królów <chord name="Dm"/>Król <chord name="G"/>i Panów <chord name="C"/>Pan. <chord name="G"/></lines>
+    </verse>
+  </lyrics>
+</song>

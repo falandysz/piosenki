@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Mędrcy świata</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">M<chord name="C"/>ędrcy św<chord name="F"/>iata, <chord name="C"/>mon<chord name="G7"/>archowie,</lines>
+      <lines break="optional">gd<chord name="C"/>zie spiesznie dążycie?<br/>Powiedzcież<chord name="F"/> nam, <chord name="G"/>Trzej <chord name="C"/>Królo<chord name="G"/>wie,</lines>
+      <lines break="optional">ch<chord name="G7"/>ceci<chord name="C"/>e widzieć Dziecię?<br/>O<chord name="G"/>no w żło<chord name="C"/>bie nie m<chord name="Dm"/>a tro<chord name="C"/>nu</lines>
+      <lines break="optional">ni be<chord name="G"/>rła nie dzierży,<br/>A<chord name="C7"/> proroct<chord name="F"/>wo J<chord name="G"/>ego z<chord name="C"/>gonu</lines>
+      <lines>j<chord name="G"/>uż się <chord name="G7"/>w św<chord name="C"/>iecie szerzy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="C"/>Mędrcy <chord name="F"/>świat<chord name="C"/>a, zło<chord name="G7"/>ść okrutna</lines>
+      <lines break="optional">D<chord name="C"/>ziecię prześladuje.<br/>Wieść o<chord name="F"/>kropna<chord name="G"/>, wie<chord name="C"/>ść to s<chord name="G"/>mutna<chord name="G7"/>,</lines>
+      <lines break="optional">H<chord name="C"/>erod spisek knuje.<br/>N<chord name="G"/>ic monarc<chord name="C"/>hów nie <chord name="Dm"/>odstr<chord name="C"/>asza,</lines>
+      <lines break="optional"><chord name="G"/>do Betlejem spieszą.<br/>G<chord name="C7"/>wiazda<chord name="F"/> Zba<chord name="G"/>wcę <chord name="C"/>im ogł<chord name="G"/>asza</lines>
+      <lines>na<chord name="G7"/>dzi<chord name="C"/>eją się cieszą.</lines>
+    </verse>
+  </lyrics>
+</song>

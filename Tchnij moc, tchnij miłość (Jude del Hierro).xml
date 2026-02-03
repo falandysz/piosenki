@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Tchnij moc, tchnij miłość</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author type="words">Jude del Hierro</author>
+      <author type="music">Jude del Hierro</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional"><chord name="Gm"/>Tchnij <chord name="Eb7"/>moc! Tchnij mi<chord name="Dm7"/>łość</lines>
+      <lines break="optional">i przenikaj życie <chord name="Gm"/>me.<br/><br/><chord name="Gm"/>Tchnij <chord name="Eb7"/>moc! Tchnij mi<chord name="Dm7"/>łość</lines>
+      <lines>i przenikaj życie <chord name="Gm"/>me.</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional">Bo całym sercem <chord name="Cm"/>swym</lines>
+      <lines break="optional">oddaję Ci <chord name="Gm7"/>cześć,<br/>Bo każdą myślą <chord name="Cm"/>swą</lines>
+      <lines break="optional">oddaję <chord name="Gm7"/>Ci cześć<br/>I z całej siły <chord name="Cm"/>swej</lines>
+      <lines break="optional">oddaję Ci <chord name="Gm7"/>cześć,</lines>
+      <lines>o <chord name="Eb7"/>Panie <chord name="Dm7"/>mój, o Panie mój.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Bo całym sercem sw<chord name="Cm"/>ym</lines>
+      <lines break="optional">uwielbić Cię ch<chord name="Gm7"/>cę,<br/>Bo każdą myślą s<chord name="Cm"/>wą</lines>
+      <lines break="optional">uwielbić Cię ch<chord name="Gm7"/>cę<br/>I z całej siły sw<chord name="Cm"/>ej</lines>
+      <lines break="optional">uwielbić Cię ch<chord name="Gm7"/>cę,</lines>
+      <lines>o <chord name="Eb7"/>Panie <chord name="Dm7"/>mój, o Panie mój.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Bo całym sercem ch<chord name="Cm"/>cę</lines>
+      <lines break="optional">odnaleźć Twą t<chord name="Gm7"/>warz,<br/>Bo każdą myślą ch<chord name="Cm"/>cę</lines>
+      <lines break="optional">odnaleźć Twą t<chord name="Gm7"/>warz<br/>I z całej siły ch<chord name="Cm"/>cę</lines>
+      <lines>odnaleźć Twą tw<chord name="Gm7"/>arz,<br/>O Pa<chord name="Eb7"/>nie <chord name="Dm7"/>mój, Panie<chord name="Gm"/> mój.</lines>
+    </verse>
+    <verse name="c2">
+      <lines break="optional"><chord name="Gm"/>Więcej mił<chord name="Eb7"/>ości, więcej mo<chord name="Dm7"/>cy,</lines>
+      <lines break="optional">więcej Ciebie w życiu m<chord name="Gm"/>ym.<br/><br/><chord name="Gm"/>Więcej mił<chord name="Eb7"/>ości, więcej mo<chord name="Dm7"/>cy,</lines>
+      <lines>więcej Ciebie w życiu m<chord name="Gm"/>ym.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Aż sponad mórz</title>
+    </titles>
+    <authors>
+      <author type="words">(Martin Smith</author>
+      <author type="music">(Martin Smith</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="E"/>Aż sponad mórz i szczytów gór</lines>
+      <lines break="optional"><chord name="F#m"/>Twa miłość spływa na mnie w dół,<br/><chord name="A"/>A ja otwieram serce me,</lines>
+      <lines break="optional"><chord name="H7"/>niech miłość Twa uwolni mnie.<br/><chord name="E"/>Szczęśliwy jestem w prawdzie Twej,</lines>
+      <lines break="optional"><chord name="F#m"/>do Ciebie wznoszę ręce swe,<br/><chord name="A"/>Chcę zawsze śpiewać</lines>
+      <lines>o mi<chord name="H7"/>łości Twojej, Panie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="E"/>O miłości Twej <chord name="F#m"/>zawsze śpiewać, <br/><br/><chord name="A"/>o miłości Twej <chord name="H7"/>zawsze śpiewać!<br/><br/><chord name="E"/>O miłości Twej <chord name="F#m"/>zawsze śpiewać, <br/><br/><chord name="A"/>chcę o miłości Twej <chord name="H7"/>zawsze śpiewać!<br/></lines>
+    </verse>
+  </lyrics>
+</song>

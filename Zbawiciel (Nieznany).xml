@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Zbawiciel</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="G"/>Jes<chord name="C"/>teśmy Twymi d<chord name="G"/>ziećmi,</lines>
+      <lines break="optional">pot<chord name="C"/>rzebujem<chord name="Em7"/>y Ciebie,<br/>mił<chord name="D"/>ości, która t<chord name="C"/>rw<chord name="G"/>a.<br/>Dob<chord name="C"/>roci niesk<chord name="G"/>ończonej,</lines>
+      <lines>ł<chord name="C"/>aski i na<chord name="Em"/>dziei,<br/>na wy<chord name="D"/>bawie<chord name="G"/>nie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"><chord name="G"/>Zbawiciel, On porus<chord name="D"/>za góry,<br/>On może w<chord name="C"/>ybawić m<chord name="G"/>nie,</lines>
+      <lines>może<chord name="C"/> wybawić <chord name="D"/>mnie.<br/>Na z<chord name="G"/>awsze sprawca odk<chord name="D"/>upienia,<br/>zmartwychwstał, <chord name="C"/>pokonał ś<chord name="G"/>mierć, Jez<chord name="C"/>us pokona<chord name="D"/>ł śmierć!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="G"/>Weź m<chord name="C"/>nie jakim j<chord name="G"/>estem,</lines>
+      <lines break="optional">z mym grze<chord name="C"/>chem i mym <chord name="Em7"/>lękiem.<br/>wyp<chord name="D"/>ełnij życie <chord name="C"/>me<chord name="G"/>.<br/>To<chord name="C"/>bie się odd<chord name="G"/>aję,</lines>
+      <lines>cał<chord name="C"/>ą moją wi<chord name="Em"/>arę<br/>odd<chord name="D"/>aję Tob<chord name="G"/>ie.</lines>
+    </verse>
+    <verse name="b1">
+      <lines break="optional"><chord name="C"/>Chcę być światłem,</lines>
+      <lines break="optional"><chord name="G"/>aby poznał <chord name="D"/>świat</lines>
+      <lines break="optional">Ciebi<chord name="C"/>e,</lines>
+      <lines break="optional">wielki Królu<chord name="G"/>,</lines>
+      <lines break="optional">Zbawiciel<chord name="D"/>u nasz</lines>
+      <lines>Jezu!</lines>
+    </verse>
+  </lyrics>
+</song>

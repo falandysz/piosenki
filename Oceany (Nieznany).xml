@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Oceany</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Hm"/>Znad oceanów <chord name="A"/>do mnie <chord name="D"/>wołasz<br/>Gdzie każdy <chord name="A"/>krok niepewny <chord name="G"/>jest<br/><chord name="Hm"/>Ty jesteś tam, gdzie <chord name="A"/>niewiad<chord name="D"/>oma<br/>Tam znajdę <chord name="A"/>grunt dla wiary <chord name="G"/>mej</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="G"/>I będę <chord name="D"/>wzywać imię <chord name="A"/>Twe<br/><chord name="G"/>I ponad <chord name="D"/>fale patrzeć <chord name="A"/>chcę<br/>Gdy burzą się, <chord name="G"/>mej duszy <chord name="D"/>pokój w Tobie <chord name="A"/>jest<br/>Gdzie <chord name="G"/>pójdzi<chord name="A"/>esz <chord name="Hm"/>Ty, <chord name="A"/>ja <chord name="D"/>pó<chord name="A"/>jdę t<chord name="G"/>eż</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Hm"/>Mój strach u<chord name="A"/>tonie w Twojej ł<chord name="D"/>asce<br/>Bo ręka T<chord name="A"/>wa, prowadzi mn<chord name="G"/>ie<br/><chord name="Hm"/>I Ty mnie nigdy n<chord name="A"/>ie zaw<chord name="D"/>iodłeś<br/>Wiem teraz t<chord name="A"/>eż nie zawiedziesz <chord name="G"/>mnie</lines>
+    </verse>
+    <verse name="b1">
+      <lines><chord name="Hm"/>Duchu <chord name="G"/>prowadź mnie, gdzie w<chord name="D"/>iara nie ma granic<br/>Daj mi c<chord name="A"/>hodzić nad wodami<br/>Gdziekolwiek mnie z<chord name="Em"/>abierzesz<br/><chord name="Hm"/>Prowadź głębiej niż pójść m<chord name="D"/>ogą moje stopy<br/>Moja wi<chord name="A"/>ara się umocni<br/>W Twej obecności B<chord name="Em"/>oże.</lines>
+    </verse>
+  </lyrics>
+</song>

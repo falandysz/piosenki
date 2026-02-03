@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Duchu Święty, przyjdź i rozpal nas</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">O <chord name="Am"/>przyjdź</lines>
+      <lines break="optional">i rozpal <chord name="F"/>nas,</lines>
+      <lines>i ulecz <chord name="Dm"/>nas!<br/><br/>Miłość nam <chord name="E"/>daj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">O <chord name="Am"/>przyjdź,</lines>
+      <lines break="optional">napełnij <chord name="F"/>nas,</lines>
+      <lines>rozraduj <chord name="Dm"/>nas!<br/><br/>Miłość nam <chord name="E"/>daj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">O <chord name="Am"/>przyjdź</lines>
+      <lines break="optional">i utul <chord name="F"/>nas,</lines>
+      <lines>rozkochaj <chord name="Dm"/>nas!<br/><br/>Miłość nam <chord name="E"/>daj!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="Am/Dm"/>Duchu <chord name="F/E"/>Święty!</lines>
+    </verse>
+  </lyrics>
+</song>

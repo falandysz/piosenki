@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Zaśpiewać chcę miłości pieśń</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="E"/>Zaśpiewać c<chord name="H"/>hcę miłości pi<chord name="C#m"/>eśń</lines>
+      <lines break="optional">memu <chord name="A"/>Zbaw<chord name="C#m"/>cy, Je<chord name="H"/>zusowi.<br/><br/><chord name="E"/>Za dzieła T<chord name="H"/>we wychwalam Ci<chord name="C#m"/>ę,</lines>
+      <lines>Kochany<chord name="A"/> Zba<chord name="C#m"/>wco, Dro<chord name="H"/>gi Jezu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">R<chord name="F#m"/>aduję s<chord name="C#m"/>ię, bo naz<chord name="H"/>wałeś mnie s<chord name="E"/>wym.<br/><br/><chord name="F#m"/>Tylko <chord name="E"/>z Tobą pra<chord name="H"/>gnę być,</lines>
+      <lines break="optional">w Twych ra<chord name="E"/>mion<chord name="H"/>ach się s<chord name="A"/>kryć,</lines>
+      <lines break="optional">w Twych r<chord name="E"/>a<chord name="H"/>mionach s<chord name="A"/>ię skryć.<br/><br/><chord name="H"/>Więc przytul <chord name="E"/>mnie i u<chord name="G#m"/>kryj <chord name="C#m"/>mnie</lines>
+      <lines>w T<chord name="A"/>wych ra<chord name="H"/>mionach <chord name="E"/>dziś.</lines>
+    </verse>
+  </lyrics>
+</song>

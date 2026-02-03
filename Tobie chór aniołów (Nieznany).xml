@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T22:17:42">
+  <properties>
+    <titles>
+      <title>Tobie chór aniołów</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="D"/>Tobie chór aniołów śpiewa</lines>
+      <lines break="optional"><chord name="A"/>nową <chord name="Hm"/>pieśń: "<chord name="G"/>Chwała Baran<chord name="A"/>kowi"!<br/><chord name="D"/>Tobie chór aniołów śpiewa</lines>
+      <lines><chord name="A"/>nową <chord name="Hm"/>pieśń: "<chord name="G"/>Chwała Baran<chord name="A"/>kowi"!<br/><chord name="Hm"/>Alleluja! <chord name="D"/>Alleluja! <chord name="G"/>Alleluja!<br/><chord name="D"/>Chwała i <chord name="A"/>cześć!<br/><chord name="Hm"/>Alleluja! <chord name="D"/>Alleluja! <chord name="G"/>Alleluja!<br/><chord name="D"/>Chwała i <chord name="A"/>cześć!</lines>
+    </verse>
+  </lyrics>
+</song>

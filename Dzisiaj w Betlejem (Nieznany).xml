@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Dzisiaj w Betlejem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">D<chord name="C"/>zisiaj w Betlejem,</lines>
+      <lines break="optional">dzisiaj w Betlejem,<br/>W<chord name="G"/>esoła nowina,<br/><br/>Ż<chord name="C"/>e Panna czysta,</lines>
+      <lines>że Panna czysta<br/>P<chord name="G"/>orodziła Syna</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">C<chord name="G"/>hrystus się ro<chord name="C"/>dzi!</lines>
+      <lines break="optional">Nas oswobodzi!<br/>A<chord name="G"/>nieli grają!</lines>
+      <lines break="optional">K<chord name="C"/>róle witają!<br/>P<chord name="G"/>asterze śpiewają!</lines>
+      <lines>B<chord name="C"/>ydlęta klękają!<br/>C<chord name="F"/>uda, cuda o<chord name="G"/>głaszaj<chord name="C"/>ą!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">M<chord name="C"/>aryja Panna,</lines>
+      <lines break="optional">Maryja Panna<br/>D<chord name="G"/>zieciątko piastuje<br/><br/>i <chord name="C"/>Józef święty</lines>
+      <lines>i Józef święty<br/>O<chord name="G"/>no pielęgnuje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">C<chord name="C"/>hoć w stajeneczce,</lines>
+      <lines break="optional">choć w stajeneczce<br/>P<chord name="G"/>anna Syna rodzi,<br/><br/>p<chord name="C"/>rzecież on wkrótce,</lines>
+      <lines>przecież on wkrótce<br/>l<chord name="G"/>udzi oswobodzi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">I <chord name="C"/>Trzej Królowie,</lines>
+      <lines break="optional">i Trzej Królowie<br/>o<chord name="G"/>d wschodu przybyli<br/><br/>i <chord name="C"/>dary Panu,</lines>
+      <lines>i dary Panu<br/>k<chord name="G"/>osztowne złożyli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">P<chord name="C"/>ójdźmy też i my,</lines>
+      <lines break="optional">pójdźmy też i my<br/>p<chord name="G"/>rzywitać Jezusa,<br/><br/>K<chord name="C"/>róla nad króle,</lines>
+      <lines>Króla nad króle<br/>u<chord name="G"/>wielbić Jezusa.</lines>
+    </verse>
+  </lyrics>
+</song>

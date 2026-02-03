@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Wywyższony</title>
+    </titles>
+    <authors>
+      <author type="words">Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Wywyż<chord name="D"/>szony, zawsze</lines>
+      <lines break="optional">będziesz wywyż<chord name="Hm"/>szony. <br/>Jesteś <chord name="Em"/>godzien honoru i czci<chord name="A7"/>.<br/>Zawsze <chord name="D"/>będę stać przed Tobą,</lines>
+      <lines break="optional">by Cię <chord name="Hm"/>wielbić<br/>i <chord name="Em"/>sławić przez wszystkie</lines>
+      <lines>moje dni<chord name="A7"/>.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-09T23:25:53">
+  <properties>
+    <titles>
+      <title>Powietrzem moim jest</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="G"/>Powietrzem <chord name="C9"/>moim jest, </lines>
+      <lines break="optional"><chord name="G"/>powietrzem <chord name="C9"/>moim jest<br/><chord name="G"/>Ob<chord name="D"/>ecność <chord name="Em"/>Twoja</lines>
+      <lines break="optional"><chord name="C"/>Święta w sercu <chord name="D"/>mym.<br/><br/><chord name="G"/>Powszednim <chord name="C"/>chlebem mym,</lines>
+      <lines><chord name="G"/> powszednim <chord name="C"/>chlebem mym<br/><chord name="G"/>Twe <chord name="D"/>Żywe <chord name="Em"/>Słowo <chord name="C"/>dane mi <chord name="D"/>dziś.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bez <chord name="G"/>Cie<chord name="D"/>bi<chord name="Em"/>e nie mogę już <chord name="C"/>żyć<chord name="D"/>!<br/><br/>Dla <chord name="G"/>Cie<chord name="D"/>bi<chord name="Em"/>e me serce <chord name="C"/>chce bić!<chord name="D"/></lines>
+    </verse>
+  </lyrics>
+</song>

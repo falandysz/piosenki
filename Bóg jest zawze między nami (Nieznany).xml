@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Bóg jest zawze między nami</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="h">
+        <open>&lt;span style="display:none"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Am"/>Bóg jest zawsze <chord name="F"/>między nami.<br/><chord name="C"/>Bóg jest zawsze <chord name="Em"/>blisko nas.<br/><chord name="Am"/>On zna wszystkie <chord name="F"/>twoje rany.<br/><chord name="C"/>Przed Nim się nie <chord name="Em"/>schowasz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="Am"/>Bóg jest zawsze <chord name="F"/>blisko przy nas.<br/><chord name="C"/>Możesz do <chord name="Em"/>Niego przyjść.<br/><chord name="Am"/>On chce obmyć <chord name="F"/>to, co skrywasz.<br/><chord name="C"/>Nie musisz <chord name="Em"/>bać się dzi<chord name="E"/>ś.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="Am"/>Emmanuel <chord name="F"/>jest blisko nas. <tag name="h">(Jest blisko nas!)</tag><br/><chord name="C"/>Emmanuel <chord name="Em"/>dotyka nas. <tag name="h">(Dotyka nas!)</tag><br/><chord name="Am"/>Emmanuel, <chord name="F"/>nie mamy sił! <tag name="h">(Nie mamy sił!)</tag><br/><chord name="C"/>Emmanuel, <chord name="Em"/>Ty musisz przyjść! <tag name="h">(Ty musisz przyjsć!)</tag></lines>
+    </verse>
+  </lyrics>
+</song>

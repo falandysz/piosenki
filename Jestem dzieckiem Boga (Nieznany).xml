@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-09T23:23:59">
+  <properties>
+    <titles>
+      <title>Jestem dzieckiem Boga</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Jestem dzieckiem Boga, <chord name="Am"/><chord name="Em"/><br/>Synem, na którego czekał Bóg. <chord name="Am"/><chord name="Em"/><br/>Królewskim płaszczem Pan </lines>
+      <lines break="optional">odział mnie. <chord name="Am"/><chord name="Em"/><br/>Moja nadzieja znalazła w Nim </lines>
+      <lines>swój dom. <chord name="F"/><chord name="E"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Bo jestem upragnionym dzieckiem. <chord name="Am"/><chord name="Em"/><br/>Potężnego Ojca w niebie mam. <chord name="Am"/><chord name="Em"/><br/>Królewskim dziedzicem </lines>
+      <lines break="optional">Pan już nazwał mnie. <chord name="F"/><chord name="C"/><br/>W przestronnych komnatach </lines>
+      <lines>znalazł dla mnie dom. <chord name="Dm"/><chord name="E"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Jesteś dzieckiem Boga, <chord name="Am"/><chord name="Em"/><br/>Synem, na którego czeka Bóg. <chord name="Am"/><chord name="Em"/><br/>Królewskim płaszczem Pan </lines>
+      <lines break="optional">odzieje cię. <chord name="Am"/><chord name="Em"/><br/>Twoja nadzieja znajdzie w Nim </lines>
+      <lines>swój dom. <chord name="F"/><chord name="E"/></lines>
+    </verse>
+    <verse name="c2">
+      <lines break="optional">Bo jesteś upragnionym dzieckiem. <chord name="Am"/><chord name="Em"/><br/>Potężnego Ojca w niebie masz. <chord name="Am"/><chord name="Em"/><br/>Królewskim dziedzicem </lines>
+      <lines break="optional">Pan już nazwał Cię.<chord name="F"/><chord name="C"/><br/>W przestronnych komnatach </lines>
+      <lines>znalazł dla Ciebie dom. <chord name="Dm"/><chord name="E"/></lines>
+    </verse>
+  </lyrics>
+</song>

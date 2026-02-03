@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>To on nasz Pan i Król</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Ed Cash</author>
+      <author type="music">Ed Cash</author>
+      <author type="words">Jesse Reeves</author>
+      <author type="music">Jesse Reeves</author>
+      <author type="words">Chris Tomlin</author>
+      <author type="music">Chris Tomlin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">To O<chord name="G"/>n, nasz Pan i Król,</lines>
+      <lines break="optional">odz<chord name="Em"/>iany w majestat swój.<br/>Ziemio, r<chord name="C"/>aduj się! Ziemio radu<chord name="D"/>j się!<br/>Okr<chord name="G"/>ywa swiatlość Go.</lines>
+      <lines break="optional">Uci<chord name="Em"/>eka ciemność i zło<br/>i drży n<chord name="C"/>a Jego głos,</lines>
+      <lines>i drży n<chord name="D"/>a Jego głos.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jak w<chord name="G"/>ielki jest Bóg!<br/>Wysławiaj G<chord name="Em"/>o! <br/><br/>Jak wielki jest Bóg!<br/>Świat ujrz<chord name="C"/>y to!<br/><br/>J<chord name="D"/>ak wielk<chord name="G"/>i jest nasz Bóg!</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">On cz<chord name="G"/>as w swej dłoni ma,</lines>
+      <lines break="optional">od wie<chord name="Em"/>ków na wieki trwa,<br/>Początkiem, k<chord name="C"/>ońcem On, początkiem, koń<chord name="D"/>cem On.<br/>Jed<chord name="G"/>yny w Trójcy Bóg,</lines>
+      <lines break="optional">Ojc<chord name="Em"/>iec, Syn i Duch,<br/>Bara<chord name="C"/>nkiem jest i Lwem,</lines>
+      <lines>Baran<chord name="D"/>kiem jest i Lwem.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Na w<chord name="G"/>ieki godzien jest</lines>
+      <lines break="optional">przyj<chord name="Em"/>ąć chwałę, moc i cześć.<br/>Ogłaszać c<chord name="C"/>hcę, jak wielki je<chord name="D"/>st Bóg.<br/><br/>Na w<chord name="G"/>ieki godzien jest</lines>
+      <lines>przy<chord name="Em"/>jąć chwałę, moc i cześć.<br/>Ogła<chord name="C"/>szać chcę, jak wielki je<chord name="D"/>st Bóg.</lines>
+    </verse>
+  </lyrics>
+</song>

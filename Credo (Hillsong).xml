@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Credo</title>
+    </titles>
+    <authors>
+      <author type="music">Hillsong</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="C#m"/>Nasz Ojcze Nieskończony,</lines>
+      <lines break="optional"><chord name="H"/>wszystko stworzyłeś Ty,</lines>
+      <lines break="optional"><chord name="A"/>Wszechmo<chord name="H"/>gący.<br/><chord name="C#m"/>Świętego Ducha mocą</lines>
+      <lines break="optional"><chord name="H"/>poczęty został Syn,</lines>
+      <lines><chord name="A"/>Jezus, nasz Zb<chord name="H"/>awca.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="E"/>Tak, ja wierzę w Boga Ojca,<br/><chord name="A"/>w Syna, którym Jezus jest.<br/><chord name="C#m"/>Wierzę też w Świętego Ducha.<br/><chord name="A"/>Bóg jest w Osobach <chord name="H"/>Trzech.<br/><chord name="E"/>Wierzę także w zmartwychwstanie,<br/><chord name="A"/>że powstaniemy znów.<br/><chord name="C#m"/>Wyznaję to:<br/><chord name="A"/>"Wierzę w Imię <chord name="H"/>Jezus!".</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="C#m"/>Nasz Sędzio, nasz Obrońco,</lines>
+      <lines break="optional"><chord name="H"/>cierpiałeś za nasz grzech,<br/><chord name="A"/>a nam przebaczono.<br/><br/><chord name="C#m"/>Ty zszedłeś do ciemności</lines>
+      <lines><chord name="H"/>i w chwale wzniosłeś się.<br/><chord name="A"/>Zająłeś w niebie tron.<br/><p style="page-break-after: always;"/><br/><chord name="E"/>Wierzę, że <chord name="A"/>Bóg <chord name="H"/>jest.<br/><br/><chord name="E"/>Wierzę, że <chord name="A"/>pokonał <chord name="H"/>śmierć.<br/><br/><chord name="E"/>Wierzę, <chord name="A"/>że to <chord name="H"/>Chrystus Panem <chord name="E"/>jest.</lines>
+    </verse>
+    <verse name="c2">
+      <lines><chord name="E"/>Wierzę, że jest życie wieczne,<br/><chord name="A"/>że na ziemię przyszedł Bóg.<br/><chord name="C#m"/>Wierzę we Wspólnotę Świętych<br/><chord name="A"/>i Święty Kościół <chord name="H"/>Twój.<br/><chord name="E"/>Wierzę w nasze zmartwychwstanie,<br/><chord name="A"/>gdy Jezus przyjdzie znów.<br/><chord name="C#m"/>Wyznaję to:<br/><chord name="A"/>"Wierzę w Imię <chord name="H"/>Jezus!".</lines>
+    </verse>
+  </lyrics>
+</song>

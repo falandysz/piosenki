@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Chcę wywyższać Imię Twe</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Chcę w<chord name="C"/>ywyższać Imię <chord name="D"/>Twe<chord name="C"/>.<br/><br/><chord name="G"/>Chcę <chord name="C"/>zaśpiewać Tobie <chord name="D"/>chwałę<chord name="C"/>.<br/><br/>P<chord name="G"/>anie, d<chord name="C"/>ziś raduję s<chord name="D"/>ię,<br/>b<chord name="G"/>o przyszedłeś, b<chord name="C"/>y mnie z<chord name="D"/>bawić.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="G"/>Z nieba z<chord name="Am7"/>stąpiłeś i c<chord name="D"/>hcesz<br/><chord name="C"/>prowadzić <chord name="G"/>mnie.<br/>Na krzyżu <chord name="Am7"/>zmarłeś,<br/>by <chord name="D"/>mój zapł<chord name="C"/>acić <chord name="G"/>dług.<br/>Z grobu <chord name="Am7"/>wstałeś i <chord name="D"/>dziś<br/>Nieba <chord name="H7"/>Królem jesteś <chord name="Em"/>Ty.<br/>Chcę wywyższać <chord name="D"/>Imię <chord name="G"/>Twe. <chord name="C"/><chord name="D"/><chord name="G"/></lines>
+    </verse>
+  </lyrics>
+</song>

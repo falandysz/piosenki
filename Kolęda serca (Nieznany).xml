@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Kolęda serca</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wokół cisza. Zapadł zmrok.<br/>Najpiękniejsza święta noc.<br/>Serca kruszy Słowa moc.<br/>Z nieba słychać błogi głos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wokół cisza. Zapadł zmrok.<br/>Najpiękniejsza święta noc.<br/>Serca kruszy Słowa moc.<br/>Chór Aniołów rozgłasza w głos.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Z nieba zstąpił największy cud.<br/>W ręce ludzkie oddał się Bóg,<br/>aby nam miłość Swoją dać.<br/>Pojednania nadszedł dziś czas.<br/>Z żłóbka bije najjaśniejszy blask.<br/>Wszechmocny Pan</lines>
+      <lines>dzieckiem dla nas się stał.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wolności dar, miłości moc<br/>w Betlejem objawiła się.<br/>Maleńki Pan, Zbawiciel nasz<br/>przychodzi dziś by pokój nam dać.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>https://chordify.net/chords/koleda-serca-hutek-makowski-malgorzata-hutek<br/>Eb G# Cb7 B</lines>
+    </verse>
+  </lyrics>
+</song>

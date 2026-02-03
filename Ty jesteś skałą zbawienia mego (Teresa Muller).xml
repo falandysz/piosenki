@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Ty jesteś skałą zbawienia mego</title>
+    </titles>
+    <authors>
+      <author type="words">Teresa Muller</author>
+      <author type="music">Teresa Muller</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="Gm"/>Ty jesteś <chord name="Am"/>skałą zba<chord name="Dm"/>wienia mego.<br/>W <chord name="B7+"/>Tobie ma <chord name="C"/>siła i <chord name="Dm"/>moc. <chord name="Gm"/>Tyś mą <chord name="Am"/>nadzieją i <chord name="Dm"/>mym natchnieniem.<br/>Wz<chord name="B7+"/>noszę do <chord name="C"/>Ciebie swój <chord name="Dm"/>głos.<br/>Panie <chord name="B7+"/>wierzę <chord name="C"/>Ci. Tak, <chord name="Am"/>wierzę<chord name="Dm"/> Ci,</lines>
+      <lines break="optional">bo Twa <chord name="B7+"/>miłość<chord name="C"/> wiern<chord name="Dm"/>a jest.<br/>Tyś po<chord name="B7+"/>mocą <chord name="C"/>mą w po<chord name="Am"/>trzebach <chord name="Dm"/>mych.</lines>
+      <lines><chord name="Gm"/>Panie, przy Tobie <chord name="A7"/>chcę być. <chord name="B7"/><chord name="C"/><chord name="Dm"/></lines>
+    </verse>
+  </lyrics>
+</song>

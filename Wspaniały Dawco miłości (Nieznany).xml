@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Wspaniały Dawco miłości</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="D7+"/>Wspaniały <chord name="G"/>Dawco Mi<chord name="D7+"/>łości,<chord name="G"/><br/><chord name="D7+"/>składamy <chord name="Em7"/>na Twoim <chord name="A"/>Stole<br/><chord name="Em7"/>wszystko, co <chord name="A"/>mamy,</lines>
+      <lines><chord name="F#m"/>wszystko, co <chord name="H7"/>mamy,<br/>choć i <chord name="G"/>tak to od wieków jest <chord name="A"/>Twoje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="D7+"/>Wspaniały <chord name="G"/>Dawco Mi<chord name="D7+"/>łości,<chord name="G"/><br/><chord name="D7+"/>składamy <chord name="Em7"/>na Twoim <chord name="A"/>Stole<br/><chord name="Em7"/>radość i szczęś<chord name="A"/>cie,</lines>
+      <lines><chord name="F#m"/>trudy i zno<chord name="H7"/>je,<br/>choć i <chord name="G"/>tak to od wieków jest <chord name="A"/>Twoje.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Emmanuel</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author type="words">Marco Mammol</author>
+      <author type="music">Marco Mammol</author>
+      <author type="words">Marco Brusati</author>
+      <author type="music">Marco Brusati</author>
+      <author type="words">Mauro Labellarte</author>
+      <author type="music">Mauro Labellarte</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="E"/>Zza horyzontu wielka światłość</lines>
+      <lines break="optional"><chord name="H"/>wciela się w historię<br/>i <chord name="A"/>zwyciężając mroki czasu</lines>
+      <lines break="optional">staje się <chord name="H"/>Pamiątką.<br/><chord name="E"/>Oświecając nasze życie</lines>
+      <lines break="optional">jasno nam <chord name="H"/>objawia:<br/><chord name="A"/>że tylko poszukując Prawdy</lines>
+      <lines break="optional">życie ma <chord name="H"/>sens.<chord name="E"/><br/><p style="page-break-after: always;"/><br/><chord name="E"/>Ścieżkami świata, po śladach wiary,</lines>
+      <lines break="optional">przybywamy do <chord name="H"/>Rzymu,<br/><chord name="A"/>by tam usłyszeć echo Słowa,</lines>
+      <lines break="optional">które wciąż <chord name="C#m"/>rozbrzmiewa.<br/><chord name="E"/>To rzymskie mury, to rzymskie niebo</lines>
+      <lines break="optional">przekazują <chord name="H"/>światu:<br/><chord name="A"/>że żyje On - prawdziwy Człowiek,</lines>
+      <lines>Chrystus wśród <chord name="H"/>nas.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I my z <chord name="C#m"/>Nim: objęci Jego <chord name="A"/>światłem, złączeni Jego <chord name="F#m"/>krzyżem,<br/><chord name="D/H"/>śpiewamy jednym głosem:<br/><chord name="E"/>Emanuel, <chord name="H"/>Emanuel, <chord name="A"/>Emanuel,<chord name="H"/> Emanuel, Emanuel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Z miasta, w którym dla miłości</lines>
+      <lines break="optional">wiele krwi przelano,<br/>Które zmieniło obraz świata</lines>
+      <lines break="optional">ufnie wyruszamy.<br/>Razem z Piotrem, wpatrzeni w Pana,</lines>
+      <lines break="optional">umacniamy wiarę;<br/>żywe Słowo nas odnawia</lines>
+      <lines>i wzrasta w nas.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Ten wielki dar samego Boga, to Chrystus - Syn Jego<br/>i cała ludzkość odnowiona</lines>
+      <lines>i w Nim wybawiona.<br/>Prawdziwy Bóg, prawdziwy Człowiek, On jest Chlebem Życia<br/>i wszystkim ludziom - swoim braciom On daje się.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">Śmierć pokonana, wygrało życie,</lines>
+      <lines break="optional">Pascha w całym świecie;<br/>powiew wiatru w każdym sercu:</lines>
+      <lines break="optional">Duch Zmartwychwstałego.<br/>To On prowadzi poprzez wieki</lines>
+      <lines break="optional">Kościół - swą Wybrankę,<br/>pod czujnym okiem Maryi Panny,</lines>
+      <lines>wspólnotę serc.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">I oto my jako dłużnicy</lines>
+      <lines break="optional">historii stuleci,<br/>wielu istnień dla miłości,</lines>
+      <lines break="optional">świętych, co wierzyli;<br/>ludzi, co za wielką cenę</lines>
+      <lines break="optional">uczyli nas latać;<br/>tych, co wieki przemieniali</lines>
+      <lines>jak Chrystus Pan.</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional">Nadeszła już godzina wiosny,</lines>
+      <lines break="optional">czas łaski na przemianę.<br/>Nie czekaj jutra, „dziś” jest darem -</lines>
+      <lines break="optional">przyjmij to z zapałem.<br/>Powroty szczere, słowa nowe,</lines>
+      <lines break="optional">serca nawrócenie.<br/>Chrystus niesie każdemu z ludzi</lines>
+      <lines>nowości czas.</lines>
+    </verse>
+  </lyrics>
+</song>

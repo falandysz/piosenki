@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Pomódl się Miriam</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Marcin Gajda</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>&lt;span style="display:none"&gt;Intro&lt;/span&gt;<br/><br/><chord name="D"/> <chord name="D/F#"/> <chord name="G"/> <chord name="A"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional"><chord name="D"/>Pomódl się Miriam,</lines>
+      <lines break="optional"><chord name="D/F#"/>aby Twój Syn żył <chord name="G"/>we mnie.<chord name="A"/><br/><chord name="D"/>Pomódl się,</lines>
+      <lines break="optional"><chord name="D/F#"/>by Jezus we mnie <chord name="G"/>żył. <chord name="G/F#"/><br/><chord name="Emadd9"/>Gdzie Ty <chord name="Emadd9/G"/>jesteś,</lines>
+      <lines break="optional"><chord name="G"/>zstępuje Duch <chord name="A"/>Święty.<br/><chord name="Emadd9"/>Gdzie Ty <chord name="Emadd9/G"/>jesteś,</lines>
+      <lines><chord name="A"/>niebo staje <chord name="Aaug"/>się.</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional"><chord name="D"/>Miriam <chord name="D/F#"/>Tyś jest</lines>
+      <lines break="optional"><chord name="G"/>bramą do <chord name="A"/>nieba.<br/><chord name="D"/>Moim <chord name="D/F#"/>niebem</lines>
+      <lines break="optional"><chord name="G"/>jest Twój <chord name="G/F#"/>Syn.<br/><chord name="Emadd9"/>Weź mnie, <chord name="Emadd9/G"/>weź mnie</lines>
+      <lines break="optional"><chord name="A"/>do swego łona,<br/><chord name="D"/>bym bóstwem <chord name="G"/>Jezusa</lines>
+      <lines><chord name="A"/>zajaśniał jak <chord name="D"/>Ty.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="D"/>Gdybym <chord name="D/F#"/>umarł,</lines>
+      <lines break="optional"><chord name="G"/>Jezus żyłby <chord name="A"/>we mnie.<br/><chord name="D"/>Gdybym <chord name="D/F#"/>umarł,</lines>
+      <lines break="optional"><chord name="G"/>odpoczął<chord name="A"/>bym.<br/><chord name="Emadd9"/>Przyspiesz, przyspiesz</lines>
+      <lines><chord name="Emadd9/G"/>moją <chord name="A"/>śmierć.<br/><chord name="D"/>Pragnę umrzeć, <chord name="G"/>aby <chord name="A"/>żyć.<chord name="D"/></lines>
+    </verse>
+  </lyrics>
+</song>

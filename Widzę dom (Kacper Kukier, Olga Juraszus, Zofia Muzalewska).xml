@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Widzę dom</title>
+    </titles>
+    <authors>
+      <author type="words">Kacper Kukier</author>
+      <author type="music">Kacper Kukier</author>
+      <author type="words">Olga Juraszus</author>
+      <author type="music">Olga Juraszus</author>
+      <author type="words">Zofia Muzalewska</author>
+      <author type="music">Zofia Muzalewska</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="B"/>Widzę Dom, w nim otwarte drzwi.<br/><chord name="Gm"/>Ojciec <chord name="F"/>czeka <chord name="Eb"/>na mnie w nich.<br/><br/><chord name="B"/>Woła mnie.<br/>Wiem, że mogę wejść.<br/><chord name="Gm"/>On op<chord name="F"/>atrzy <chord name="Eb"/>rany me. <br/><br/><chord name="Gm"/>Wiele <chord name="F"/>bitew <chord name="Eb"/>za mną jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="B"/>To czas, by ucztować. <br/><br/>W sercu mam <chord name="Gm"/>pokój,</lines>
+      <lines break="optional">gdy wokół wojna.<br/><br/>Na oczach <chord name="Cm"/>moich wrogów</lines>
+      <lines><chord name="Eb"/>Pan zastawia <chord name="B"/>stół.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional"><chord name="B"/>Strach nie ma wstępu</lines>
+      <lines>do Tego Domu.<br/><br/><chord name="Gm"/>Oskarżyciele nie mają głosu.<br/><br/><chord name="Cm"/>Pan sam pokonał <chord name="Eb"/>moich <chord name="B"/>wrogów.</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="B"/>Będę dziękować! <br/><br/><chord name="Gm"/>Będę dziękować! <br/><br/><chord name="Cm"/>Będę dziękować <chord name="G"/>memu Bogu!</lines>
+    </verse>
+  </lyrics>
+</song>

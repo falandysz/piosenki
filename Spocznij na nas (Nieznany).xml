@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Spocznij na nas</title>
+    </titles>
+    <verseOrder>i1 c1 i1 v1 c1 i1 b1</verseOrder>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>&lt;span style="display:none"&gt;Intro&lt;/span&gt;<br/><br/><chord name="B"/> <chord name="B4"/> <chord name="B"/> <chord name="B4"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Z<chord name="B"/>stąp dziś Duchu Święty</lines>
+      <lines break="optional">kied<chord name="Eb"/>y Ty przychodzisz</lines>
+      <lines break="optional">moje serce drż<chord name="Eb"/>y</lines>
+      <lines break="optional">T<chord name="Gm"/>y, Panie wypełniasz to m<chord name="Eb"/>iejsce</lines>
+      <lines>wypełnij na nowo me serce.</lines>
+    </verse>
+    <verse name="v1">
+      <lines break="optional">O<chord name="B"/>gień i wiatr</lines>
+      <lines break="optional">niech pojawią si<chord name="B4"/>ę znów</lines>
+      <lines break="optional">otwórz bramy nie<chord name="Gm"/>ba</lines>
+      <lines break="optional"><chord name="Gm"/>objaw się tu.</lines>
+      <lines break="optional"><chord name="Gm"/>Spocznij  na nas</lines>
+      <lines>s<chord name="Eb"/>pocznij na nas.</lines>
+    </verse>
+    <verse name="b1">
+      <lines break="optional"><chord name="B"/>Duchu Święty<chord name="Cm"/>,</lines>
+      <lines break="optional">spocznij na <chord name="Gm"/>nas</lines>
+      <lines break="optional">pragniemy<chord name="Eb"/> Cię</lines>
+      <lines>pragniem<chord name="B"/>y Cię</lines>
+    </verse>
+  </lyrics>
+</song>

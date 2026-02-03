@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Cicha noc</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Cicha noc, święta noc,<br/><chord name="D"/>Pokój niesie <chord name="G"/>ludziom wszem<br/><chord name="C"/>A u żłobka <chord name="G"/>Matka Święta<br/><chord name="C"/>Czuwa sama <chord name="G"/>uśmiechnięta<br/><chord name="D"/>Nad dzieciątka <chord name="Em"/><chord name="G"/>snem<br/><chord name="G"/>Nad dzie<chord name="D"/>ciątka <chord name="G"/>snem</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Cicha noc, święta noc,<br/><chord name="D"/>Pastuszkowie <chord name="G"/>od swych trzód<br/><chord name="C"/>Biegną wielce <chord name="G"/>zadziwieni<br/><chord name="C"/>Za anielskim <chord name="G"/>głosem pieni<br/><chord name="D"/>Gdzie się spełnił <chord name="Em"/><chord name="G"/>cud<br/><chord name="G"/>Gdzie się <chord name="D"/>spełnił <chord name="G"/>cud</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Cicha noc, święta noc,<br/><chord name="D"/>Narodzony Boży <chord name="G"/>Syn,<br/><chord name="C"/>Pan wielkiego <chord name="G"/>majestatu<br/><chord name="C"/>Niesie dziś <chord name="G"/>całemu światu<br/><chord name="D"/>Odkupienie <chord name="Em"/><chord name="G"/>win<br/><chord name="G"/>Odku<chord name="D"/>pienie <chord name="G"/>win</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="G"/>Cicha noc, święta noc,<br/><chord name="D"/>jakiż w tobie <chord name="G"/>dzisiaj cud,<br/><chord name="C"/>w Betlejem <chord name="G"/>Dziecina święta<br/><chord name="C"/>wznosi w górę <chord name="G"/>swe rączęta<br/><chord name="D"/>blogosławi <chord name="Em"/><chord name="G"/>lud<br/><chord name="G"/>blogo<chord name="D"/>sławi <chord name="G"/>lud.</lines>
+    </verse>
+  </lyrics>
+</song>

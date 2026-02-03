@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+  <properties>
+    <titles>
+      <title>Przybieżeli do Betlejem</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>P<chord name="C"/>rzybieżeli do Betlejem past<chord name="F"/>erz<chord name="C"/>e,<br/>g<chord name="C"/>rając skocznie Dzieciąteczku na l<chord name="F"/>irz<chord name="C"/>e.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">C<chord name="C"/>hwała na w<chord name="F"/>ysokości!</lines>
+      <lines break="optional">Chwała na w<chord name="G"/>ysokości,</lines>
+      <lines>a<chord name="C"/> p<chord name="F"/>ok<chord name="C"/>ój n<chord name="G"/>a zie<chord name="C"/>mi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O<chord name="C"/>ddawali swe ukłony w pok<chord name="F"/>orz<chord name="C"/>e<br/>T<chord name="C"/>obie z serca ochotnego, o B<chord name="F"/>oż<chord name="C"/>e!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A<chord name="C"/>nioł Pański sam ogłosił te d<chord name="F"/>ziw<chord name="C"/>y,<br/>k<chord name="C"/>tórych oni nie słyszeli, jak ż<chord name="F"/>y<chord name="C"/>wi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>D<chord name="C"/>ziwili się napowietrznej m<chord name="F"/>uzyc<chord name="C"/>e<br/>i<chord name="C"/> myśleli, co to będzie za Dzi<chord name="F"/>eci<chord name="C"/>ę?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O<chord name="C"/>to mu się wół i osioł kła<chord name="F"/>niaj<chord name="C"/>ą.<br/>T<chord name="C"/>rzej królowie podarunki od<chord name="F"/>daj<chord name="C"/>ą.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I<chord name="C"/> Anieli gromadami p<chord name="F"/>ilnu<chord name="C"/>ją.<br/>P<chord name="C"/>anna czysta wraz z Józefem p<chord name="F"/>ilnu<chord name="C"/>ją.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>P<chord name="C"/>oznali Go Mesyjaszem być p<chord name="F"/>raw<chord name="C"/>ym,<br/>N<chord name="C"/>arodzonym dzisiaj Panem Ła<chord name="F"/>skawy<chord name="C"/>m.</lines>
+    </verse>
+    <verse name="v8">
+      <lines break="optional">M<chord name="C"/>y Go także Bogiem, Zbawcą</lines>
+      <lines>ju<chord name="F"/>ż zna<chord name="C"/>my<br/>i<chord name="C"/> z całego serca wszystko k<chord name="F"/>ocham<chord name="C"/>y.</lines>
+    </verse>
+  </lyrics>
+</song>
