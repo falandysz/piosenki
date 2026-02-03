@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-03T22:53:49">
   <properties>
     <titles>
       <title>Wszystko mogę w Tym, który mnie umacnia</title>
@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><chord name="Em"/>Wszystko mogę w T<chord name="C"/>ym,<br/>który m<chord name="G"/>nie u<chord name="D"/>macnia.</lines>
+      <lines><chord name="Dm"/>Wszystko mogę w T<chord name="B"/>ym,<br/>który m<chord name="F"/>nie u<chord name="C"/>macnia.</lines>
     </verse>
     <verse name="v2">
-      <lines><chord name="Em"/>Jez<chord name="C"/>us um<chord name="G"/>acnia mn<chord name="D"/>ie.</lines>
+      <lines><chord name="Dm"/>Jez<chord name="B"/>us um<chord name="F"/>acnia mn<chord name="C"/>ie.</lines>
     </verse>
     <verse name="v3">
-      <lines>R<chord name="Em"/>ozlewaj swoją ch<chord name="C"/>wałę,<br/>p<chord name="G"/>otęgę i m<chord name="D"/>oc<br/>n<chord name="Em"/>a miasto Twoje św<chord name="C"/>ięte,<br/>p<chord name="G"/>otęgę i m<chord name="D"/>oc.</lines>
+      <lines>R<chord name="Dm"/>ozlewaj swoją ch<chord name="B"/>wałę,<br/>p<chord name="F"/>otęgę i m<chord name="C"/>oc<br/>n<chord name="Dm"/>a miasto Twoje św<chord name="B"/>ięte,<br/>p<chord name="F"/>otęgę i m<chord name="C"/>oc.</lines>
     </verse>
   </lyrics>
 </song>
