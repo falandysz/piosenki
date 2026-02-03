@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-01-05T14:45:15">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-03T19:14:35">
   <properties>
     <titles>
       <title>Aż sponad mórz</title>
     </titles>
     <authors>
-      <author type="words">(Martin Smith</author>
-      <author type="music">(Martin Smith</author>
+      <author type="words">Martin Smith</author>
+      <author type="music">Martin Smith</author>
     </authors>
   </properties>
   <lyrics>
