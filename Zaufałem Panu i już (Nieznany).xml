@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-04T19:35:50">
+  <properties>
+    <titles>
+      <title>Zaufałem Panu i już</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zauf<chord name="Em"/>ałem Panu i ju<chord name="D"/>ż nicz<chord name="C"/>ego nie muszę się lęk<chord name="G"/>ać,<br/>Zauf<chord name="Em"/>ałem Panu i ju<chord name="D"/>ż nicze<chord name="C"/>go nie muszę się trw<chord name="G"/>ożyć.<br/>Wierzę M<chord name="C"/>u, bo On ma mo<chord name="D"/>c przezwyci<chord name="G"/>ężyć w moim se<chord name="Em"/>rcu zło<br/>Wierzę M<chord name="C"/>u, bo On ma w<chord name="D"/>łaśnie taką m<chord name="Em"/>oc.</lines>
+    </verse>
+  </lyrics>
+</song>
