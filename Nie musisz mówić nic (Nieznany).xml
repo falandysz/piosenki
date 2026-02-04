@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-04T19:32:16">
+  <properties>
+    <titles>
+      <title>Nie musisz mówić nic</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="Em"/>Nic nie musisz m<chord name="C"/>ówić nic<br/>Odpocznij we<chord name="D"/> mnie<br/>Czuj sie bezp<chord name="G"/>iecznie<chord name="H7"/><br/><br/>P<chord name="Em"/>ozwól kochać s<chord name="C"/>ię<br/><chord name="D"/>Miłość pragnie Ci<chord name="G"/>ebie<chord name="H7"/></lines>
+    </verse>
+  </lyrics>
+</song>
