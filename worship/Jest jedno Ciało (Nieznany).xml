@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-04T19:40:32">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:00:49">
   <properties>
     <titles>
       <title>Jest jedno Ciało</title>
@@ -13,7 +13,7 @@
       <lines>Jest jedno ciało <br/><chord name="G"/>Jest jeden P<chord name="D"/>an <br/><chord name="D"/>Jednoczy nas w Du<chord name="G"/>chu <br/><chord name="G"/>Byśmy razem s<chord name="D"/>zli<chord name="D7"/>  <br/>Usta g<chord name="G"/>łoszą chwałę Mu<chord name="A"/>  <br/>w ręku s<chord name="F#m"/>łowa Jego mie<chord name="Hm"/>cz  <br/>w moc odz<chord name="G"/>iani tak idz<chord name="Em"/>iemy <br/>zdobyw<chord name="G"/>amy ziemię tę.<chord name="A"/></lines>
     </verse>
     <verse name="v2">
-      <lines><chord name="A"/>Jesteśmy <chord name="D"/>ludem Króla chwał <br/>Jego ś<chord name="A"/>więtym narodem <br/>wyb<chord name="G"/>ranym pokoleniem <br/>by obj<chord name="D"/>awiać Jego cz<chord name="A"/>eść <br/>Jesteśmy lu<chord name="D"/>dem Króla chwał <br/>Jego św<chord name="A"/>iętym narodem <br/>wielb<chord name="G"/>imy Jezu<chord name="D"/>sa <br/><chord name="Em"/>On jest królem cał<chord name="A"/>ej ziemi tej.<chord name="D"/> </lines>
+      <lines><chord name="A"/>Jesteśmy <chord name="D"/>ludem Króla chwał <br/>Jego ś<chord name="A"/>więtym narodem <br/>wyb<chord name="G"/>ranym pokoleniem <br/>by obj<chord name="D"/>awiać Jego cz<chord name="A"/>eść <br/>Jesteśmy lu<chord name="D"/>dem Króla chwał <br/>Jego św<chord name="A"/>iętym narodem <br/>wielb<chord name="G"/>imy Jezu<chord name="D"/>sa <br/><chord name="Em"/>On jest królem cał<chord name="A"/>ej ziemi tej.<chord name="D"/></lines>
     </verse>
   </lyrics>
 </song>

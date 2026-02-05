@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:19:46">
+  <properties>
+    <titles>
+      <title>Święty jest nasz Pan Wszechmogący</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Święty, święty, święty jest nasz Pan wszechmogący.<br/>On był i jest, i przyjdzie znów. <br/>On był i jest, i przyjdzie znów<br/>	</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Wywyższam Cię, <br/>Tobie śpiewam pieśń, <br/>Wywyższam Cię, <br/>wielbię imię Twe,<br/>Wznoszę mój głos, <br/>by dać Ci chwałę, <br/>Bo jesteś godzien wszelkiej czci! 	</lines>
+    </verse>
+  </lyrics>
+</song>

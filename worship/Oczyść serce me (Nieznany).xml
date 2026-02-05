@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:20:27">
+  <properties>
+    <titles>
+      <title>Oczyść serce me</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>     Oczyść serce me, chcę jak złoto lśnić i jak czyste srebro.<br/>Oczyść serce me, chcę czystego złota blaskiem lśnić.	<br/><br/></lines>
+    </verse>
+    <verse name="c2">
+      <lines>       Zstąp Ogniu, zstąp,		 <br/>Przyjdź, oczyść serce me.<br/>Pragnę być święty,	 <br/>Tobie oddany, Panie.	 <br/>Chcę zawsze być święty, Tobie, <br/>Mój Mistrzu, na zawsze oddany, <br/>Gotów, by służyć Ci.		<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Oczyść serce me, <br/>Obmyj swoją Krwią, spraw, bym mógł być święty. <br/>Oczyść serce me, <br/>Z najtajniejszych grzechów <br/>oczyść mnie. 	<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

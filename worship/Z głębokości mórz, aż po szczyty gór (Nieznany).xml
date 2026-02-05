@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:18:41">
+  <properties>
+    <titles>
+      <title>Z głębokości mórz, aż po szczyty gór</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Z głębokości mórz aż po szczyty gór<br/>Stworzenie objawia majestat Twój<br/>Od kolorów jesieni <br/>po wiosenny deszcz<br/>Wszystko śpiewa Ci pieśń pełną cudownych słów, ogłaszając:<br/>	</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niepojęty, niezmierzony 	<br/>Gwiazdy stworzyłeś na niebie<br/>	I każdą z nich znasz 	<br/>Wspaniałym Bogiem Tyś jest<br/>Wszechmogący, nieskończony<br/>W zachwycie klękamy przed Tobą	<br/>		By wyznać to, że 			<br/>Wspaniałym Bogiem Tyś jest</lines>
+    </verse>
+  </lyrics>
+</song>
