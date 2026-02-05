@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:37:02">
+  <properties>
+    <titles>
+      <title>Smutek zamieniam w radość</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Ref. Smutek zamieniam w radość.<br/>Płacz zamieniam w wesele.<br/>Jestem Panem! Jestem Panem!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Kiedy się smucisz, głowa do góry, powiedz słowa Jezusa:<br/>„Błogosławieni, którzy się smucą<br/>albowiem Ja ich pocieszę”</lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Kto utrudzony i obciążony<br/>powinien wiedzieć gdzie iść.<br/>„Ja was pokrzepię, dodam odwagi.<br/>Ponad Mnie nie ma nic!”</lines>
+    </verse>
+  </lyrics>
+</song>

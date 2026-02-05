@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:28:30">
+  <properties>
+    <titles>
+      <title>Przybądź Duchu Święty, spuść z Niebiosów wzięty</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Przybądź, Duchu Święty,<br/>Spuść z niebiosów wzięty<br/>Światła Twego strumień.<br/>Przyjdź, Ojcze ubogich,<br/>Dawco darów mnogich,<br/>Przyjdź Światłości sumień!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O najmilszy z Gości,<br/>Słodka serc radości,<br/>Słodkie orzeźwienie.<br/>W pracy Tyś ochłodą,<br/>W skwarze żywą wodą,<br/>W płaczu utulenie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Światłości najświętsza!<br/>Serc wierzących wnętrza<br/>Podaj swej potędze!<br/>Bez Twojego tchnienia<br/>Cóż jest wśród stworzenia?<br/>Jeno cierń i nędze!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obmyj, co nie święte,<br/>Oschłym wlej zachętę,<br/>Ulecz serca ranę!<br/>Nagnij, co jest harde,<br/>Rozgrzej serca twarde,<br/>Prowadź zabłąkane.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Daj Twoim wierzącym,<br/>W Tobie ufającym,<br/>Siedmiorakie dary!<br/>Daj zasługę męstwa,<br/>Daj wieniec zwycięstwa,<br/>Daj szczęście bez miary!</lines>
+    </verse>
+  </lyrics>
+</song>

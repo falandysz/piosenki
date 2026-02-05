@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:35:18">
+  <properties>
+    <titles>
+      <title>Jezus zwyciężył, to wykonało się</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus zwyciężył, to wykonało się! Szatan pokonany, <br/>Jezus złamał śmierci moc. <br/>Jezus jest Panem, o alleluja! <br/>Po wieczne czasy <br/>Królem królów jest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jezus jest Panem /x4 <br/>Tylko Jezus jest Panem,<br/>Jezus jest Panem,<br/>On jest Panem ziemi tej.</lines>
+    </verse>
+  </lyrics>
+</song>
