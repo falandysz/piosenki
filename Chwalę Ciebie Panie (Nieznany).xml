@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:51:39">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T21:14:36">
   <properties>
     <titles>
       <title>Chwalę Ciebie Panie</title>
@@ -13,10 +13,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><br/>Chwalę Ciebie Panie<br/>i uwielbiam.<br/>Wznoszę w górę swoje ręce<br/>Uwielbiając imię Twe<br/><br/><br/><br/><br/><br/></lines>
+      <lines>Chwalę Ciebie Panie<br/>i uwielbiam.<br/>Wznoszę w górę swoje ręce<br/>Uwielbiając imię Twe</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bo wielkiś Ty<br/>Wielkie dzieła czynisz dziś<br/>Nie dorówna Tobie nikt<br/>Nie dorówna Tobie nikt</lines>
     </verse>
     <verse name="v2">
-      <lines><br/>Bo wielkiś Ty<br/>Wielkie dzieła czynisz dziś<br/>Nie dorówna Tobie nikt<br/>Nie dorówna Tobie nikt<br/><br/><br/><br/><br/><br/><br/></lines>
+      <lines>Jesteś mą nadzieją,<br/>wiarą, życiem.<br/>Daj mi poznać Twoje drogi,<br/>bym nie zbłądził nigdy już.</lines>
     </verse>
   </lyrics>
 </song>
