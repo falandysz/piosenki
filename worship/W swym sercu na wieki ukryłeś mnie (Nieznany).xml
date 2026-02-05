@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:57:08">
+  <properties>
+    <titles>
+      <title>W swym sercu na wieki ukryłeś mnie</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>W Swym sercu na wieki ukryłeś nas,<br/>Odnaleźć Twą miłość już czas.<br/>Podnoszę me dłonie oddając Ci cześć,<br/>Mocy moja uwielbiam Cię./x2<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Jezu Serce Twoje schronieniem mym,<br/>Panie w Sercu Twoim mój dom.<br/>Umiłował mnie Pan <br/>i mogę w Sercu Jego trwać, <br/>Umiłował mnie Pan.<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>W Swym sercu na wieki ukryłeś nas,<br/>Odnaleźć Twą miłość już czas.<br/>Podnoszę me dłonie oddając Ci cześć,<br/>Mocy moja uwielbiam Cię./x2<br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>Jezu Serce Twoje schronieniem mym,<br/>Panie w Sercu Twoim mój dom.<br/>Umiłował mnie Pan <br/>i mogę w Sercu Jego trwać, <br/>Umiłował mnie Pan.<br/><br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jezu Serce Twoje schronieniem mym,<br/>Panie w Sercu Twoim mój dom.<br/>Do nas zniżył się Pan,<br/>by serce Swoje oddać nam,<br/>Do nas zniżył się Pan, alleluja.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

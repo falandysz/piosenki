@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:09:20">
+  <properties>
+    <titles>
+      <title>Spocznij na nas Duchu Pana, ogarnij nas swą łaską</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Spocznij na nas Duchu Pana, ogarnij nas swoją łaską.<br/>Spocznij na nas Duchu Pana, ogarnij nas swoim tchnieniem,<br/><br/><br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Bo jesteś mocny, jesteś słodki, w Tobie moja dusza ma wytchnienie.<br/>Jesteś mocny, jesteś dobry, w Tobie moje życie zmienia się.<br/><br/><br/><br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

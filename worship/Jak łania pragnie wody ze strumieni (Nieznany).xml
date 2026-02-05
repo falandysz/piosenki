@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:59:38">
+  <properties>
+    <titles>
+      <title>Jak łania pragnie wody ze strumieni</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>Jak łania pragnie wody ze strumieni,<br/>Moja dusza pragnie Cię.<br/>Tylko Ty jesteś moim pragnieniem,<br/>Zawsze chcę uwielbiać Cię.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Tylko Ty jesteś mocą mą,<br/>Twoja wola wolą mą.<br/>Tylko Ty jesteś moim pragnieniem,<br/>Zawsze chcę uwielbiać Cię.</lines>
+    </verse>
+  </lyrics>
+</song>
