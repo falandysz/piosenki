@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:00:50">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T19:51:30">
   <properties>
     <titles>
       <title>Ty jesteś skałą zbawienia mego</title>
@@ -9,11 +9,28 @@
       <author type="music">Teresa Muller</author>
     </authors>
   </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="h">
+        <open>&lt;span style="display:none"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
   <lyrics>
+    <verse name="i1">
+      <lines>
+        <tag name="h">(4/4)</tag>
+      </lines>
+    </verse>
     <verse name="v1">
-      <lines break="optional"><chord name="Gm"/>Ty jesteś <chord name="Am"/>skałą zba<chord name="Dm"/>wienia mego.<br/>W <chord name="B7+"/>Tobie ma <chord name="C"/>siła i <chord name="Dm"/>moc. <chord name="Gm"/>Tyś mą <chord name="Am"/>nadzieją i <chord name="Dm"/>mym natchnieniem.<br/>Wz<chord name="B7+"/>noszę do <chord name="C"/>Ciebie swój <chord name="Dm"/>głos.<br/>Panie <chord name="B7+"/>wierzę <chord name="C"/>Ci. Tak, <chord name="Am"/>wierzę<chord name="Dm"/> Ci,</lines>
-      <lines break="optional">bo Twa <chord name="B7+"/>miłość<chord name="C"/> wiern<chord name="Dm"/>a jest.<br/>Tyś po<chord name="B7+"/>mocą <chord name="C"/>mą w po<chord name="Am"/>trzebach <chord name="Dm"/>mych.</lines>
-      <lines><chord name="Gm"/>Panie, przy Tobie <chord name="A7"/>chcę być. <chord name="B7"/><chord name="C"/><chord name="Dm"/></lines>
+      <lines><chord name="Hm"/>Ty jesteś <chord name="F#m"/>skałą zba<chord name="Hm"/>wienia mego.<br/>W <chord name="G"/>Tobie ma <chord name="A"/>siła i <chord name="Hm"/>moc. <chord name="Hm"/>Tyś mą <chord name="F#m"/>nadzieją i <chord name="Hm"/>mym natchnieniem.<br/>Wz<chord name="G"/>noszę do <chord name="A"/>Ciebie swój <chord name="Hm"/>głos.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Panie <chord name="G"/>wierzę <chord name="A"/>Ci. Tak, <chord name="F#m"/>wierzę<chord name="Hm"/> Ci,</lines>
+      <lines break="optional">bo Twa <chord name="G"/>miłość<chord name="A"/> wiern<chord name="Hm"/>a jest.<br/>Tyś po<chord name="G"/>mocą <chord name="A"/>mą w po<chord name="F#m"/>trzebach <chord name="Hm"/>mych.</lines>
+      <lines><chord name="Em"/>Panie, przy Tobie <chord name="F#"/>chcę być.</lines>
     </verse>
   </lyrics>
 </song>
