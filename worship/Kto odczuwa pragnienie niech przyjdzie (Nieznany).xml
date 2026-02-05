@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:52:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:55:30">
   <properties>
     <titles>
       <title>Kto odczuwa pragnienie niech przyjdzie</title>
@@ -7,10 +7,13 @@
     <authors>
       <author>Nieznany</author>
     </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Kto odczuwa pragnienie, <br/>niech przyjdzie,<br/>Kto chce, niech wody życia darmo zaczerpnie. /2x<br/><br/>Jam Alfa i Omega,<br/>Pierwszy i ostatni, początek i koniec. /2x<br/><br/>	<br/> <br/></lines>
+      <lines>Kto odczuwa pragnienie, <br/>niech przyjdzie,<br/>Kto chce, niech wody życia darmo zaczerpnie. /2x<br/><br/>Jam Alfa i Omega,<br/>Pierwszy i ostatni, początek i koniec. /2x<br/><br/><br/><br/></lines>
     </verse>
   </lyrics>
 </song>

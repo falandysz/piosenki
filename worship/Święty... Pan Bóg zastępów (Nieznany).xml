@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:42:28">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T21:00:12">
   <properties>
     <titles>
       <title>Święty... Pan Bóg zastępów</title>
@@ -7,16 +7,19 @@
     <authors>
       <author>Nieznany</author>
     </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="v1">
       <lines>Święty, Święty, Święty, Święty, Święty,<br/>Święty Pan Bóg Zastępów.<br/>Dziś wznosimy nasze ręce,<br/>Uwielbiając miłość Twą,<br/>Święty, Święty, Święty, Święty.<br/></lines>
     </verse>
     <verse name="v2">
-      <lines>Dobry Ojcze, Dobry Ojcze,<br/>Jakże dobrze być Twym dzieckiem, <br/>Dobry Ojcze, <br/>Dziś wznosimy...<br/>Drogi Jezu, Drogi Jezu,<br/>Swoją Krwią nas odkupiłeś, Drogi Jezu, <br/>Dziś wznosimy...<br/><br/></lines>
+      <lines>Dobry Ojcze, Dobry Ojcze,<br/>Jakże dobrze być Twym dzieckiem,<br/>Dobry Ojcze,<br/>Dziś wznosimy...<br/>Drogi Jezu, Drogi Jezu,<br/>Swoją Krwią nas odkupiłeś, Drogi Jezu,<br/>Dziś wznosimy...<br/><br/></lines>
     </verse>
     <verse name="v3">
-      <lines>Duchu Święty, Duchu Święty, <br/>Przyjdź napełnij nas na nowo, <br/>Duchu Święty,<br/>Dziś wznosimy...<br/>Święty, Święty, Święty, Święty, Święty, <br/>Święty Pan Bóg Zastępów.<br/>Dziś wznosimy nasze ręce.</lines>
+      <lines>Duchu Święty, Duchu Święty, <br/>Przyjdź napełnij nas na nowo,<br/>Duchu Święty,<br/>Dziś wznosimy...<br/>Święty, Święty, Święty, Święty, Święty,<br/>Święty Pan Bóg Zastępów.<br/>Dziś wznosimy nasze ręce.</lines>
     </verse>
     <verse name="v4">
       <lines>Alleluja, Alleluja, Alleluja, Alleluja, <br/>Dziś wznosimy...<br/>Alleluja, Alleluja</lines>

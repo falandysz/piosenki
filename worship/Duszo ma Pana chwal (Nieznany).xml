@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:27:14">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:52:18">
   <properties>
     <titles>
       <title>Duszo ma Pana chwal</title>
@@ -7,19 +7,22 @@
     <authors>
       <author>Nieznany</author>
     </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="c1">
       <lines>Duszo ma Pana chwal<br/>Oddaj Bogu cześć<br/>Świętemu śpiewaj pieśń<br/>Z mocą wywyższaj go<br/>Duszo ma<br/>Uwielbiam Boże Cię</lines>
     </verse>
     <verse name="v1">
-      <lines>Nowy dzień wraz ze <br/>wschodem słońca<br/>Znów nadszedł czas, <br/>by Ci śpiewać pieśń<br/>Cokolwiek jest już za mną <br/>i to wszystko co przede mną<br/>Wiem będę śpiewać, <br/>gdy nadejdzie zmrok</lines>
+      <lines>Nowy dzień wraz ze <br/>wschodem słońca<br/>Znów nadszedł czas,<br/>by Ci śpiewać pieśń<br/>Cokolwiek jest już za mną<br/>i to wszystko co przede mną<br/>Wiem będę śpiewać,<br/>gdy nadejdzie zmrok</lines>
     </verse>
     <verse name="v2">
-      <lines><br/>Bogaty w miłość, <br/>gniew oddalasz Panie<br/>Twe serce miłe, wielkie Imię Twe<br/><br/>Ze względu na Twą dobroć będę śpiewać Tobie pieśni<br/>Wiele powodów, by uwielbiać Cię</lines>
+      <lines><br/>Bogaty w miłość,<br/>gniew oddalasz Panie<br/>Twe serce miłe, wielkie Imię Twe<br/><br/>Ze względu na Twą dobroć będę śpiewać Tobie pieśni<br/>Wiele powodów, by uwielbiać Cię</lines>
     </verse>
     <verse name="v3">
-      <lines>Przyjdzie dzień, gdy bez sił zostanę<br/>Nadejdzie czas mego końca tu<br/>Dusza ma będzie już <br/>na zawsze Cię uwielbiać<br/>W wieczności z Tobą <br/>piękna zabrzmi pieśń</lines>
+      <lines>Przyjdzie dzień, gdy bez sił zostanę<br/>Nadejdzie czas mego końca tu<br/>Dusza ma będzie już<br/>na zawsze Cię uwielbiać<br/>W wieczności z Tobą<br/>piękna zabrzmi pieśń</lines>
     </verse>
   </lyrics>
 </song>

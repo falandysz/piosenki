@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:10:05">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T21:03:29">
   <properties>
     <titles>
       <title>Wodę zamieniłeś w wino</title>
@@ -7,19 +7,22 @@
     <authors>
       <author>Nieznany</author>
     </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>				<br/>	<br/>Wodę zamieniłeś w wino 	<br/>Ślepi przy Tobie znów widzą<br/>Któż jest jak TY,		<br/>Tylko TY.</lines>
+      <lines><br/><br/>Wodę zamieniłeś w wino<br/>Ślepi przy Tobie znów widzą<br/>Któż jest jak TY,<br/>Tylko TY.</lines>
     </verse>
     <verse name="v2">
       <lines><br/>Blaskiem rozświetlasz ciemności<br/>Człowiek powstaje z marności<br/>Któż jest jak TY,<br/>Tylko TY.<br/></lines>
     </verse>
     <verse name="v3">
-      <lines>Nasz Bóg jest wielki<br/>Nasz Bóg jest silny		<br/>Boże nikt inny nie równa się z Tobą	<br/>Nasz Bóg uzdrawia<br/>Jest wszechmogący<br/>Nasz Bóg, nasz Bóg<br/><br/></lines>
+      <lines>Nasz Bóg jest wielki<br/>Nasz Bóg jest silny<br/>Boże nikt inny nie równa się z Tobą<br/>Nasz Bóg uzdrawia<br/>Jest wszechmogący<br/>Nasz Bóg, nasz Bóg<br/><br/></lines>
     </verse>
     <verse name="v4">
-      <lines>Jeśli nasz Bóg jest przy nas<br/>Już nic nas nie zatrzyma<br/>Jeśli nasz Bóg jest z nami<br/>Któż jest przeciwko nam <br/></lines>
+      <lines>Jeśli nasz Bóg jest przy nas<br/>Już nic nas nie zatrzyma<br/>Jeśli nasz Bóg jest z nami<br/>Któż jest przeciwko nam<br/></lines>
     </verse>
   </lyrics>
 </song>

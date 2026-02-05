@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:08:09">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:52:47">
   <properties>
     <titles>
       <title>Ja wierzę, że to Jezus</title>
@@ -7,19 +7,22 @@
     <authors>
       <author>Nieznany</author>
     </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><br/>Ja wierzę, że to Jezus 	<br/>Wierzę, że On Synem Boga jest 	<br/>On Zmarł i Powstał, aby żyć <br/>I za cenę śmierci życie dał 	<br/></lines>
+      <lines><br/>Ja wierzę, że to Jezus<br/>Wierzę, że On Synem Boga jest<br/>On Zmarł i Powstał, aby żyć<br/>I za cenę śmierci życie dał<br/></lines>
     </verse>
     <verse name="v2">
-      <lines>Ref. Wierzę, że jest tu teraz   <br/>(On tu teraz jest) 		<br/>Stoi pośród nas<br/>(stoi pośród nas)		<br/>Ma moc nas teraz uzdrawiać (Uzdrowienia moc) 		<br/>Ma przebaczenia dar 	<br/></lines>
+      <lines>Ref. Wierzę, że jest tu teraz   <br/>(On tu teraz jest)<br/>Stoi pośród nas<br/>(stoi pośród nas)<br/>Ma moc nas teraz uzdrawiać (Uzdrowienia moc)<br/>Ma przebaczenia dar<br/></lines>
     </verse>
     <verse name="v3">
-      <lines><br/>Ja wierze Tobie, Panie<br/>Wierzę, żeś Ty Synem Boga jest <br/>Zmarłeś i Powstałeś, aby żyć <br/>I za cenę śmierci życie dać 	<br/></lines>
+      <lines><br/>Ja wierze Tobie, Panie<br/>Wierzę, żeś Ty Synem Boga jest<br/>Zmarłeś i Powstałeś, aby żyć<br/>I za cenę śmierci życie dać<br/></lines>
     </verse>
     <verse name="v4">
-      <lines>Ref. Wierzę, że tutaj jesteś <br/>(Ty jesteś tu)<br/>Stoisz pośród nas <br/>(stoisz pośród nas)<br/>Masz moc nas teraz uzdrawiać (uzdrowienia moc)<br/>Masz przebaczenia dar<br/>	<br/></lines>
+      <lines>Ref. Wierzę, że tutaj jesteś <br/>(Ty jesteś tu)<br/>Stoisz pośród nas<br/>(stoisz pośród nas)<br/>Masz moc nas teraz uzdrawiać (uzdrowienia moc)<br/>Masz przebaczenia dar<br/><br/></lines>
     </verse>
   </lyrics>
 </song>

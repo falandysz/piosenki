@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T17:02:23">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:54:22">
   <properties>
     <titles>
       <title>Jezu, tyś wszystkim dla mnie jest</title>
@@ -7,13 +7,16 @@
     <authors>
       <author>Nieznany</author>
     </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jezu, Tyś wszystkim <br/>dla mnie jest, <br/>jak żyć bez miłości Twej? <br/>Jezu, otwórz me oczy, <br/>bym ujrzeć mógł <br/>Twej miłości cud</lines>
+      <lines>Jezu, Tyś wszystkim <br/>dla mnie jest,<br/>jak żyć bez miłości Twej?<br/>Jezu, otwórz me oczy,<br/>bym ujrzeć mógł<br/>Twej miłości cud</lines>
     </verse>
     <verse name="c1">
-      <lines>Przyjdź i napełnij nas mocą swoją co dnia. <br/>Tyś Pokoju Księciem,<br/> lekarzem dusz, <br/>Jesteś Światłem, co w ciemnościach nie gaśnie!</lines>
+      <lines>Przyjdź i napełnij nas mocą swoją co dnia. <br/>Tyś Pokoju Księciem,<br/>lekarzem dusz,<br/>Jesteś Światłem, co w ciemnościach nie gaśnie!</lines>
     </verse>
   </lyrics>
 </song>

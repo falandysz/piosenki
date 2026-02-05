@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:22:00">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T21:03:42">
   <properties>
     <titles>
       <title>Wykrzykujcie na cześć Pana</title>
@@ -7,16 +7,19 @@
     <authors>
       <author>Nieznany</author>
     </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines><br/>Ref. Wykrzykujcie na cześć Pana wszystkie ziemie<br/>        Wśród okrzyków i radości wysławiajcie Go.</lines>
+      <lines><br/>Ref. Wykrzykujcie na cześć Pana wszystkie ziemie<br/>Wśród okrzyków i radości wysławiajcie Go.</lines>
     </verse>
     <verse name="v1">
-      <lines><br/>1. Wiedzcie, że Pan jest Bogiem, <br/>On sam stworzył nas.<br/>    Jesteśmy Jego ludem, <br/>jesteśmy Jego własnością.</lines>
+      <lines><br/>1. Wiedzcie, że Pan jest Bogiem,<br/>On sam stworzył nas.<br/>Jesteśmy Jego ludem,<br/>jesteśmy Jego własnością.</lines>
     </verse>
     <verse name="v2">
-      <lines>2. W Jego bramy wstępujcie <br/>z dziękczynieniem,<br/>Wśród hymnów w Jego przedsionki.<br/>Błogosławcie imię Jego, <br/>chwalcie Pana dziś.</lines>
+      <lines>2. W Jego bramy wstępujcie <br/>z dziękczynieniem,<br/>Wśród hymnów w Jego przedsionki.<br/>Błogosławcie imię Jego,<br/>chwalcie Pana dziś.</lines>
     </verse>
   </lyrics>
 </song>
