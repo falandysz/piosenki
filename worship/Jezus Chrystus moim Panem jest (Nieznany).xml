@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:47:18">
+  <properties>
+    <titles>
+      <title>Jezus Chrystus moim Panem jest</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/><br/><br/>Jezus Chrystus moim Panem jest, alleluja. /2x<br/>On kocha mnie, On kocha mnie, alleluja. </lines>
+    </verse>
+  </lyrics>
+</song>

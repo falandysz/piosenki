@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:49:19">
+  <properties>
+    <titles>
+      <title>Panie dla Ciebie nie ma rzeczy niemożliwych</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>1. Panie, dla Ciebie nie ma rzeczy niemożliwych.<br/>Ty przychodzisz do mnie <br/>Ze słowem umocnienia i pociechy. <br/>Mówisz mi Ja Jestem, nie lękaj się.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/><br/>2. Gdy nadejdzie czas mej łaski,<br/>Ja wysłucham Cię.<br/>W dniu zbawienia przyjdę ci z pomocą.<br/>Przyjdę i wysłucham Cię.<br/><br/>Ref. Ja Jestem.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:53:58">
+  <properties>
+    <titles>
+      <title>Matko, która nas znasz</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>!. Z wszystkich niewiast wybrana - przyjdź i drogę wskaż<br/>Córko ludu Bożego - do Syna Swego nas prowadź<br/>Służebnico pokorna - pokój światu daj.<br/><br/>II. Królowo ognisk rodzinnych – przyjdź…<br/>Dziewico, wzorze prostoty – do Syna…<br/>Oblubienico cieśli – pokój...<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Matko, która nas znasz,<br/>Z dziećmi Twymi bądź,<br/>Na drogach nam nadzieją świeć,<br/>Z Synem Twym z nami idź.<br/><br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

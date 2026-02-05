@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:48:29">
+  <properties>
+    <titles>
+      <title>Ty, obecny wśród nas</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/>On odpuszcza każdy mój grzech – miłosierny jest.<br/>Każdy smutek zamienia w śmiech – <br/>zna liczbę moich łez.<br/>Twoje święte Ciało i Krew otwiera mi oczy.<br/>Widzę uśmiech łagodny Twój, teraz i tu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/><br/><br/>Odnawiasz moje siły jak orła, jak młodego orła do lotu porywasz mnie.<br/>Odnawiasz moje siły od nowa, dajesz mi moc i podnosisz mnie!</lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Ref. To Ty, obecny wśród nas,<br/>Twoja chwała zstępuje, <br/>Twoja chwała ogarnia nas.<br/>To Ty, obecny wśród nas, <br/>Twoją miłość przyjmuję. Teraz jest łaski czas.<br/>.</lines>
+    </verse>
+    <verse name="c2">
+      <lines><br/>To Ty, obecny wśród nas,<br/>Twoja chwała zstępuje, <br/>Twoja chwała uwalnia nas.<br/>To Ty obecny wśród nas<br/>Twoją miłość przyjmuję. Jesteś tu.<br/>.</lines>
+    </verse>
+  </lyrics>
+</song>

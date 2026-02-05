@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:50:38">
+  <properties>
+    <titles>
+      <title>Panie, my Twoje dzieci</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panie, my Twoje dzieci<br/>zebrane w imieniu Twym.<br/>Jedno serce i cel nas gromadzi,<br/>by wielbić Cię i śpiewać hymn,<br/>tylko Ty Panie jesteś fundamentem,<br/>nie musimy się bać. <br/><br/>Gdy nadejdą burze my będziemy trwać,<br/>bo Ty zbawiłeś nas. /x2</lines>
+    </verse>
+  </lyrics>
+</song>

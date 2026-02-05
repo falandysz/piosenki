@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:43:25">
+  <properties>
+    <titles>
+      <title>W Tobie nadzieja moja</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><br/><br/>1. W Tobie nadzieja moja. <br/>Dzisiaj chcę Tobie oddać to, co słabe jest, Bo ufam Tobie, Jezu. <br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. Lekarzu ciał, Lekarzu dusz,<br/>Czy chcę być zdrowy – pytasz.<br/>Panie mój, nie mam nikogo, kto by podniósł mnie.<br/>Mówisz do mnie: Wstań!<br/><br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines><br/>Ref. Jezusowi oddaj dziś <br/>Całe życie swe.<br/>Jezusowi, bo dobry jest, <br/>Możesz przynieść to, <br/>co chcesz, wysłucha cię. <br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>Dotknij oczu moich, dotknij serca mego, <br/> Które nie umie przebaczyć.  <br/>Daj mi miłość swoją, obroń mnie od złego, Chcę być Twój. <br/></lines>
+    </verse>
+  </lyrics>
+</song>

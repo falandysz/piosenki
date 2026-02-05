@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T18:30:50">
+  <properties>
+    <titles>
+      <title>Cała ziemio wołaj z radości na cześć Pana</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ref. Cała ziemio, <br/>wołaj z radości na cześć Pana,<br/>Raduj się, wesel się.<br/>Cała ziemio, <br/>wołaj z radości na cześć Pana,<br/>Alleluja, alleluja.<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines><br/>1. Śpiewajcie Panu pieśń nową, <br/>albowiem uczynił cuda,<br/>Zwycięstwo mu zgotowała Jego prawica <br/>i święte ramię Jego.<br/><br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>2. Pan okazał swoje zbawienie,<br/>    na oczach pogan objawił swą sprawiedliwość,<br/>    wspomniał na dobroć <br/>i na wierność swoją,<br/>    dla domu Izraela.<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><br/>3. Ujrzały wszystkie krańce ziemi zbawienie Boga naszego.<br/>    Wołaj z radości na cześć Pana, <br/>cała ziemio,<br/>    Cieszcie się, weselcie i grajcie.<br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines><br/>4. Śpiewajcie Panu przy wtórze cytry,<br/>    Przy wtórze cytry i przy dźwięku harfy,<br/>    Przy trąbach i przy głosie rogu.<br/>    Na oczach Pana, Króla, się radujcie.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>5. Niech szumi morze <br/>i  wszystko, co w nim żyje,<br/>    Krąg ziemi i jego mieszkańcy,<br/>    Rzeki niech klaszczą w dłonie,<br/>    Góry niech razem wołają z radości. <br/></lines>
+    </verse>
+  </lyrics>
+</song>
