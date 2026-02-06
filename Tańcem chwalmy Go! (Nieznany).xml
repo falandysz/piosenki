@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T09:22:43">
+  <properties>
+    <titles>
+      <title>Tańcem chwalmy Go!</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tańcem chwalmy Go!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Duchu Święty, wlej w nas radość, <br/>byśmy Boga chwalili.<br/>Byśmy grali i śpiewali.<br/>Jak król Dawid tańczyli.<br/>Wlej mądrość, by nas nie zwiodła<br/>światowa pokusa.<br/>Byśmy mogli mężnie kroczyć<br/>śladami Chrystusa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Synu, dzięki za Twój wielki <br/>wobec Ojca szacunek.<br/>Żeś na krzyżu Swoje życie<br/>oddał za nasz ratunek.<br/>Prowadź nas rózgą żelazną,<br/>byśmy nie zbłądzili.<br/>Ale radosnym tańczeniem<br/>Stwórcę wywyższyli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chwała Tobie, Boże Ojcze, <br/>za Twoje hojne dary.<br/>Bo nam dajesz wiele łaski<br/>i miłości bez miary.<br/>Chwała Tobie, Boże Ojcze,<br/>za to, że żyjemy.<br/>Toteż naszym skromnym tańcem<br/>bardzo dziękujemy.</lines>
+    </verse>
+  </lyrics>
+</song>
