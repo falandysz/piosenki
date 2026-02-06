@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T09:40:06">
+  <properties>
+    <titles>
+      <title>Najwyższe Imię Twe ja chcę wywyższać je.</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Najwyższe Imię Twe<br/>ja chcę wywyższać je.<br/>Chcę w Nim uwielbiać Cię<br/>(chcę Ci wyśpiewać).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Porusza serce me, <br/>porusza duszę mą<br/>On zawsze przy mnie jest.<br/>Odpuszcza każdy grzech<br/>i nie potępia mnie<br/>nigdy nie lękam się<br/>(bo zawsze przy mnie jest).</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus jest tu<br/>i umacnia mnie.<br/>Jego miłość<br/>jest nieskończona.</lines>
+    </verse>
+  </lyrics>
+</song>
