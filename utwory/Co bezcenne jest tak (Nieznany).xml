@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:18:15">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T21:29:02">
   <properties>
     <titles>
       <title>Co bezcenne jest tak</title>
@@ -13,16 +13,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><br/>Co bezcenne jest tak<br/>I ważniejsze niż świat<br/>Z czym porównać się da<br/>Bóg, nadzieja w nas<br/>Obecność Twa<br/><br/><br/></lines>
+      <lines>Co bezcenne jest tak<br/>i ważniejsze niż świat?<br/>Z czym porównać się da<br/>Bóg, nadzieja w nas<br/>Obecność Twa?</lines>
     </verse>
     <verse name="v2">
-      <lines><br/>Doświadczyłam i wiem<br/>Jaką miłość dał nam<br/>Serce me wolne jest<br/>Mój wstyd odszedł w dal<br/>Obecność Twa<br/><br/></lines>
+      <lines>Doświadczyłam i wiem<br/>jaką miłość dał nam.<br/>Serce me wolne jest.<br/>Mój wstyd odszedł w dal<br/>Obecność Twa.</lines>
     </verse>
     <verse name="v3">
-      <lines><br/>Duchu Święty, zapraszamy Cię<br/>Zamieszkaj tu i zostań pośród nas<br/>Twa chwała jest czym żyje serce me<br/>Dziś prosimy Cię, znów wypełnij nas<br/>Obecność twa<br/><br/><br/></lines>
+      <lines>Duchu Święty, zapraszamy Cię.<br/>Zamieszkaj tu i zostań pośród nas.<br/>Twa chwała jest czym żyje serce me.<br/>Dziś prosimy Cię, znów wypełnij nas<br/>Obecność twa.</lines>
     </verse>
     <verse name="v4">
-      <lines><br/>Daj poznać się, być blisko Ciebie,<br/>tego pragnę<br/>Chcę zbliżyć się do Twojej<br/>chwały i dobroci<br/><br/><br/></lines>
+      <lines>Daj poznać się, być blisko Ciebie,<br/>tego pragnę.<br/>Chcę zbliżyć się do Twojej<br/>chwały i dobroci.</lines>
     </verse>
   </lyrics>
 </song>
