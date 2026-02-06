@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T09:06:56">
+  <properties>
+    <titles>
+      <title>Jezus... pokonał śmierć</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezus.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pokonał śmierć!<br/>Pokonał mój grzech!<br/>Zmartwychwstał Pan<br/>i Królem jest!</lines>
+    </verse>
+  </lyrics>
+</song>
