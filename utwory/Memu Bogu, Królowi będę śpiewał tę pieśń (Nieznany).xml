@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T22:45:39">
+  <properties>
+    <titles>
+      <title>Memu Bogu, Królowi będę śpiewał tę pieśń</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Memu Bogu, Królowi<br/>będę śpiewał tę pieśń<br/>teraz, zawsze, na wieki, amen!<br/>Alleluja! Alleluja! Alleluja! Amen!</lines>
+    </verse>
+  </lyrics>
+</song>
