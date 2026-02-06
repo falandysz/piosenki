@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:36:39">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T09:08:52">
   <properties>
     <titles>
       <title>Maryjo, Matko mojego wezwania</title>
@@ -13,13 +13,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Maryjo, Matko mojego wezwania<br/>Chcę i pragnę idąc za Twym słowem<br/>Czynić wszystko co powie mi Jezus,<br/>Miłować Jego wolę,<br/>a wszystko inne<br/>ze względu na Niego samego.</lines>
+      <lines>Maryjo, Matko mojego wezwania<br/>chcę i pragnę idąc za Twym słowem<br/>czynić wszystko co powie mi Jezus,<br/>miłować Jego wolę,<br/>a wszystko inne<br/>ze względu na Niego samego.</lines>
     </verse>
     <verse name="c1">
-      <lines>Bo tak jest z tymi,<br/>którzy z Ducha narodzili się,<br/>nikt nie wie dokąd pójdą<br/>za wolą Twą.<br/></lines>
+      <lines>Bo tak jest z tymi,<br/>którzy z Ducha narodzili się,<br/>nikt nie wie dokąd pójdą<br/>za wolą Twą.</lines>
     </verse>
     <verse name="v2">
-      <lines>Słuchać słowa całym sercem<br/>I w Duchu Świętym je wypełniać<br/>Amen, amen, amen!<br/></lines>
+      <lines>Słuchać słowa całym sercem<br/>i w Duchu Świętym je wypełniać,<br/>amen, amen, amen!</lines>
     </verse>
   </lyrics>
 </song>
