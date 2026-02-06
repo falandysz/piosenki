@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T17:11:12">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T19:17:15">
   <properties>
     <titles>
       <title>Schowaj mnie</title>
@@ -23,17 +23,17 @@
   <lyrics>
     <verse name="v1a">
       <lines>
-        <tag name="h"><chord name="C"/>4/4</tag>
+        <tag name="h"><chord name="A"/>4/4</tag>
       </lines>
     </verse>
     <verse name="v1b">
-      <lines><chord name="C"/>Scho<chord name="G"/>waj <chord name="Am"/>mnie<br/>pod <chord name="F"/>skrzy<chord name="D/F#"/>dła <chord name="G"/>Swe<br/><chord name="C/E"/>Ukryj m<chord name="F"/>nie<br/>w <chord name="Dm"/>silnej dłoni S<chord name="G"/>wej.</lines>
+      <lines><chord name="A"/>Scho<chord name="E"/>waj <chord name="F#m"/>mnie<br/>pod <chord name="D"/>skrzy<chord name="H/D#"/>dła <chord name="E"/>Swe<br/><chord name="A/C#"/>Ukryj m<chord name="D"/>nie<br/>w <chord name="Hm"/>silnej dłoni S<chord name="E"/>wej.</lines>
     </verse>
     <verse name="c1">
-      <lines>Kiedy fale <chord name="F"/>mórz<br/>chcą <chord name="G"/>porwać <chord name="C"/>mnie<br/>Z Tobą wzniosę <chord name="F"/>się,<br/>podni<chord name="G"/>esiesz <chord name="Am"/>mnie<br/>Panie Królem <chord name="F/A"/>Tyś spien<chord name="G/H"/>ionych w<chord name="C"/>ód.<br/>Ja ufam <chord name="F"/>Ci. Ty <chord name="G"/>jesteś <chord name="F9"/>Bóg!<br/><tag name="h">(po powtórzeniu refrenu C zamiast F9)</tag></lines>
+      <lines>Kiedy fale <chord name="D"/>mórz<br/>chcą <chord name="E"/>porwać <chord name="A"/>mnie<br/>Z Tobą wzniosę <chord name="D"/>się,<br/>podni<chord name="E"/>esiesz <chord name="F#m"/>mnie<br/>Panie Królem <chord name="D/F#"/>Tyś spien<chord name="E/G#"/>ionych w<chord name="A"/>ód.<br/>Ja ufam <chord name="D"/>Ci. Ty <chord name="E"/>jesteś <chord name="D9"/>Bóg!<br/><tag name="h">(po powtórzeniu refrenu C zamiast F9)</tag></lines>
     </verse>
     <verse name="v2">
-      <lines>Od<chord name="C"/>poczn<chord name="G"/>ę d<chord name="Am"/>ziś<br/>w ram<chord name="F"/>io<chord name="D/F#"/>nach <chord name="Am"/>Twych.<br/><chord name="C/E"/>Dusza <chord name="F"/>ma<br/>w <chord name="Dm"/>Tobie będzie <chord name="G"/>trwać.</lines>
+      <lines>Od<chord name="A"/>poczn<chord name="E"/>ę d<chord name="F#m"/>ziś<br/>w ram<chord name="D"/>io<chord name="H/D#"/>nach <chord name="F#m"/>Twych.<br/><chord name="A/C#"/>Dusza <chord name="D"/>ma<br/>w <chord name="Hm"/>Tobie będzie <chord name="E"/>trwać.</lines>
     </verse>
   </lyrics>
 </song>

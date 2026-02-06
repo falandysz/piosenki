@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:18:24">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T19:48:18">
   <properties>
     <titles>
       <title>Ty, światłość dnia</title>
@@ -14,25 +14,25 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">T<chord name="D"/>y, światł<chord name="A"/>ość dnia</lines>
-      <lines break="optional">w<chord name="G"/>szedłeś w moje ciemności,<br/>d<chord name="D"/>ałeś m<chord name="A"/>i wzrok a<chord name="G"/>bym mógł</lines>
-      <lines break="optional">w<chord name="D"/>idzieć T<chord name="A"/>wą twar<chord name="G"/>z</lines>
-      <lines>i spojrzenie miłości,<br/>w<chord name="D"/> który<chord name="A"/>m roztapi<chord name="G"/>asz mój strach.</lines>
+      <lines break="optional">T<chord name="D"/>y, światłość dni<chord name="A"/>a</lines>
+      <lines break="optional">wszedłeś w <chord name="Em"/>moje ciemn<chord name="G"/>ości,<br/>d<chord name="D"/>ałeś m<chord name="A"/>i wzrok a<chord name="G"/>bym mógł</lines>
+      <lines break="optional">w<chord name="D"/>idzieć Twą twa<chord name="A"/>rz</lines>
+      <lines>i spojrz<chord name="Em"/>enie miło<chord name="G"/>ści,<br/>w któ<chord name="D"/>rym rozt<chord name="A"/>apiasz mój str<chord name="G"/>ach.</lines>
     </verse>
     <verse name="c1">
-      <lines break="optional">Jestem t<chord name="D"/>u by wielbić,</lines>
-      <lines break="optional">b<chord name="A"/>y oddawać chwałę.<br/>Jestem t<chord name="Hm"/>u by wyzna<chord name="G"/>ć:</lines>
-      <lines break="optional">"To mój Bóg!".<br/>Dobry i ł<chord name="D"/>askawy</lines>
-      <lines break="optional">c<chord name="A"/>ały tak wspaniały<br/>ponad wsz<chord name="Hm"/>ystko cenn<chord name="G"/>y</lines>
-      <lines>dla mnie jest.</lines>
+      <lines break="optional">Jestem tu by wie<chord name="D"/>lbić,</lines>
+      <lines break="optional">by oddawać chw<chord name="A"/>ałę.<br/>Jestem tu by w<chord name="Hm"/>yznać:</lines>
+      <lines break="optional">"To mój B<chord name="G"/>óg!".<br/>Dobry i łaska<chord name="D"/>wy</lines>
+      <lines break="optional">cały tak wspani<chord name="A"/>ały<br/>ponad wszystko ce<chord name="Hm"/>nny</lines>
+      <lines>dla mnie je<chord name="G"/>st.</lines>
     </verse>
     <verse name="v2">
       <lines break="optional">T<chord name="D"/>y czasów Kr<chord name="A"/>ól,</lines>
       <lines break="optional">wywyższony na w<chord name="G"/>ieki.<br/>J<chord name="D"/>aśnieje w ni<chord name="A"/>ebie Twój t<chord name="G"/>ron.<br/>Z<chord name="D"/>szedłeś na zi<chord name="A"/>emię,</lines>
-      <lines>by stać się cz<chord name="G"/>łowiekiem,<br/>b<chord name="D"/>y rajem s<chord name="A"/>tał się m<chord name="G"/>ój dom</lines>
+      <lines>by sta<chord name="Em"/>ć się cz<chord name="G"/>łowiekiem,<br/>b<chord name="D"/>y rajem s<chord name="A"/>tał się m<chord name="G"/>ój dom</lines>
     </verse>
     <verse name="b1">
-      <lines>I n<chord name="A"/>iczym n<chord name="Bm"/>ie odp<chord name="G"/>łacę się<br/>za m<chord name="A"/>iłość T<chord name="Bm"/>wą i z<chord name="G"/>a Twój krzyż.</lines>
+      <lines>I n<chord name="A"/>iczym n<chord name="D"/>ie odp<chord name="G"/>łacę się<br/>za m<chord name="A"/>iłość T<chord name="D"/>wą i z<chord name="G"/>a Twój krzyż.</lines>
     </verse>
   </lyrics>
 </song>
