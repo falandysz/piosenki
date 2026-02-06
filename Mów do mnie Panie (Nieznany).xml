@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:55:50">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T09:10:56">
   <properties>
     <titles>
       <title>Mów do mnie Panie</title>
@@ -13,10 +13,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Mów do mnie, Panie, <br/>chcę słyszeć Cię,<br/>Przyjąć od Ciebie, co masz dla mnie.<br/>Nie chcę się chować,<br/>lecz w Tobie skryć.<br/>W cieniu Twym, Panie, chcę iść.</lines>
+      <lines>Mów do mnie, Panie.<br/>Chcę słyszeć Cię,<br/>przyjąć od Ciebie, co masz dla mnie.<br/>Nie chcę się chować,<br/>lecz w Tobie skryć.<br/>W cieniu Twym, Panie, chcę iść.</lines>
     </verse>
-    <verse name="v2">
-      <lines><br/>Święty, potężny jesteś, Panie nasz<br/>Przed Tobą dziś możemy stać<br/>Dzięki łasce, nie dzięki nam samym. /2x</lines>
+    <verse name="c1">
+      <lines>Święty, potężny jesteś, Panie nasz!<br/>Przed Tobą dziś możemy stać<br/>dzięki łasce, nie dzięki nam samym.</lines>
     </verse>
   </lyrics>
 </song>
