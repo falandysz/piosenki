@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T09:35:41">
+  <properties>
+    <titles>
+      <title>Jesteś jak wiatr, rozwiewasz mój strach.</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+    <themes>
+      <theme>worship</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesteś jak wiatr,<br/>rozwiewasz mój strach.<br/>Jesteś jak ogień,<br/>rozpalasz serce me.<br/>Jesteś jak ziemia,<br/>co chłonie każdą moją łzę.<br/>Jesteś jak woda, oczyszczasz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Niech Twa chwała wzniesie się<br/>ponad każdą moją słabość.<br/>Niech Twa chwała wzniesie się<br/>ponad szczyty.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Niech Twa chwała wzniesie się<br/>ponad wszystko co jest we mnie.<br/>Niech ogarnie mnie<br/>i Niech rządzi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niech Twoja chwała zmienia moje serce.<br/>Niech doskonali to, co słabe jest.<br/>W każdej ciemności<br/>Ty jesteś moim światłem.<br/>Chcę Tobie służyć. Mówię tak!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Chwała,<br/>Jezus jest Panem<br/>na wieki,<br/>Amen!</lines>
+    </verse>
+  </lyrics>
+</song>
