@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:18:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T21:07:38">
   <properties>
     <titles>
       <title>Jak ożywczy deszcz</title>
@@ -13,10 +13,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><br/>Jak ożywczy deszcz<br/>Duchu Święty przyjdź<br/>Dotknij naszych serc<br/>Rozpal ognia żar<br/><br/></lines>
+      <lines>Jak ożywczy deszcz<br/>Duchu Święty przyjdź<br/>Dotknij naszych serc<br/>Rozpal ognia żar</lines>
     </verse>
     <verse name="v2">
-      <lines><br/>Dziś przenikaj nas<br/>Tchnieniem mocy swej<br/>Bądź nam światłem dnia<br/>I nadzieją serc<br/><br/><br/><br/></lines>
+      <lines>Dziś przenikaj nas<br/>Tchnieniem mocy swej<br/>Bądź nam światłem dnia<br/>I nadzieją serc</lines>
     </verse>
   </lyrics>
 </song>
