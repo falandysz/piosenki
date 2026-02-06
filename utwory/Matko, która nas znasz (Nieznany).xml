@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:18:17">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T22:37:00">
   <properties>
     <titles>
       <title>Matko, która nas znasz</title>
     </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
     <authors>
       <author>Nieznany</author>
     </authors>
@@ -12,11 +13,14 @@
     </themes>
   </properties>
   <lyrics>
-    <verse name="v1">
-      <lines>!. Z wszystkich niewiast wybrana - przyjdź i drogę wskaż<br/>Córko ludu Bożego - do Syna Swego nas prowadź<br/>Służebnico pokorna - pokój światu daj.<br/><br/>II. Królowo ognisk rodzinnych – przyjdź…<br/>Dziewico, wzorze prostoty – do Syna…<br/>Oblubienico cieśli – pokój...<br/></lines>
-    </verse>
     <verse name="c1">
-      <lines>Matko, która nas znasz,<br/>Z dziećmi Twymi bądź,<br/>Na drogach nam nadzieją świeć,<br/>Z Synem Twym z nami idź.<br/><br/><br/></lines>
+      <lines>Matko, która nas znasz,<br/>Z dziećmi Twymi bądź,<br/>Na drogach nam nadzieją świeć,<br/>Z Synem Twym z nami idź.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Z wszystkich niewiast wybrana<br/>przyjdź i drogę wskaż.<br/>Córko ludu Bożego<br/>do Syna Swego nas prowadź.<br/>Służebnico pokorna<br/>pokój światu daj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Królowo ognisk rodzinnych<br/>przyjdź i drogę wskaż.<br/>Dziewico, wzorze prostoty<br/>do Syna Swego nas prowadź.<br/>Oblubienico cieśli<br/>pokój światu daj.</lines>
     </verse>
   </lyrics>
 </song>
