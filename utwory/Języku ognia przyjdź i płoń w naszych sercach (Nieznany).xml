@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:55:16">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:27:34">
   <properties>
     <titles>
       <title>Języku ognia przyjdź i płoń w naszych sercach</title>
     </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
     <authors>
       <author>Nieznany</author>
     </authors>
@@ -13,19 +14,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines><br/>Języku ognia przyjdź i płoń w naszych sercach<br/>Duchu Miłości przemieniaj nas<br/>Swe pocieszenie nam daj i nim wypełniaj<br/>Duchu Nadziei umacniaj nas</lines>
+      <lines>Języku ognia przyjdź i płoń w naszych sercach<br/>Duchu Miłości przemieniaj nas<br/>Swe pocieszenie nam daj i nim wypełniaj<br/>Duchu Nadziei umacniaj nas</lines>
     </verse>
     <verse name="c1">
-      <lines><br/>Przybądź Święty Niepojęty,<br/>z Nieba na nas tchnięty Duchu<br/>Rozpal Świętą, Niepojętą, z Nieba na nas tchniętą miłość<br/>Nią ogarnij nas, Amen<br/>Nią ogarnij nas, Amen</lines>
+      <lines>Przybądź Święty Niepojęty,<br/>z Nieba na nas tchnięty Duchu<br/>Rozpal Świętą, Niepojętą, z Nieba na nas tchniętą miłość<br/>Nią ogarnij nas, Amen<br/>Nią ogarnij nas, Amen</lines>
     </verse>
     <verse name="v2">
-      <lines><br/>Obłoku jasny ochroń nas<br/>przed gniewem złego<br/>Daj soli smak i światłu blask<br/>Nie daj się ukryć miastu Boga przedwiecznego<br/>Osłaniaj je, strzeż jego bramm</lines>
+      <lines>Obłoku jasny ochroń nas<br/>przed gniewem złego<br/>Daj soli smak i światłu blask<br/>Nie daj się ukryć miastu Boga przedwiecznego<br/>Osłaniaj je, strzeż jego bram</lines>
     </verse>
     <verse name="v3">
-      <lines><br/>Pocieszycielu radość Swą ześlij z Nieba<br/>Wszak Dobry ją obiecał nam<br/>Przerwij milczenie w Imię Syna słowa chleba<br/>Najświętsze tchnienie wołaj w nas</lines>
+      <lines>Pocieszycielu radość Swą ześlij z Nieba<br/>Wszak Dobry ją obiecał nam<br/>Przerwij milczenie w Imię Syna słowa chleba<br/>Najświętsze tchnienie wołaj w nas</lines>
     </verse>
     <verse name="c2">
-      <lines><br/>Witaj Święty Niepojęty,<br/>z Nieba na nas tchnięty Duchu<br/>Rozpal Świętą, Niepojętą,<br/>z Nieba na nas tchniętą miłość<br/>Nią ogarnij nas, Amenen</lines>
+      <lines>Witaj Święty Niepojęty,<br/>z Nieba na nas tchnięty Duchu<br/>Rozpal Świętą, Niepojętą,<br/>z Nieba na nas tchniętą miłość<br/>Nią ogarnij nas, Amen</lines>
     </verse>
   </lyrics>
 </song>
