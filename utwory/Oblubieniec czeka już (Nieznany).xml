@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:18:18">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T22:11:00">
   <properties>
     <titles>
       <title>Oblubieniec czeka już</title>
@@ -13,13 +13,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Oblubieniec czeka już, pierzmy szaty, blisko dzień wesela Zaproszonych gości tłum stoi u bram, które Pan otwiera.<br/></lines>
+      <lines>Oblubieniec czeka już,<br/>pierzmy szaty, blisko dzień wesela.<br/>Zaproszonych gości tłum<br/>stoi u bram, które Pan otwiera.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jezus oblubieńcem naszym jest,<br/>a Kościół świętą Panną, którą umiłował.<br/>Jezus oblubieńcem naszym jest,<br/>a Kościół świętą Panną, którą zdobył Swoją Krwią.</lines>
     </verse>
     <verse name="v2">
-      <lines><br/>ref. Jezus oblubieńcem naszym jest, a Kościół świętą Panną, którą umiłował.<br/>Jezus oblubieńcem naszym jest, a Kościół świętą Panną, którą zdobył Swoją Krwią.<br/></lines>
-    </verse>
-    <verse name="v3">
-      <lines><br/>Tylko oblubieniec wie, kto naprawdę jest w nim zakochany. W dniu wesela znajdzie Cię, wniesie przez próg, przez żywota bramy.<br/></lines>
+      <lines>Tylko Oblubieniec wie,<br/>kto naprawdę jest w nim zakochany.<br/>W dniu wesela znajdzie<br/>i wniesie przez próg, przez żywota bramy.</lines>
     </verse>
   </lyrics>
 </song>
