@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T12:52:21">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T12:57:37">
   <properties>
     <titles>
       <title>Widzę dom</title>
@@ -48,7 +48,7 @@
       <lines>do Tego Domu.<br/><br/><chord name="Gm"/>Oskarżyciele nie mają głosu.<br/><br/><chord name="Cm"/>Pan sam pokonał <chord name="Eb"/>moich <chord name="B"/>wrogów.</lines>
     </verse>
     <verse name="v4">
-      <lines><chord name="B"/>Będę dziękować! <br/><br/><chord name="Gm"/>Będę dziękować! <br/><br/><chord name="Cm"/>Będę dziękować <chord name="G"/>memu Bogu!</lines>
+      <lines><chord name="B"/>Będę dziękować! <br/><br/><chord name="Gm"/>Będę dziękować! <br/><br/><chord name="Cm"/>Będę dziękować <chord name="Eb"/>memu <chord name="G"/>Bogu!</lines>
     </verse>
   </lyrics>
 </song>
