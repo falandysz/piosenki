@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T16:53:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T17:30:30">
   <properties>
     <titles>
       <title>Ty, obecny wśród nas</title>
     </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
     <authors>
       <author>Nieznany</author>
     </authors>
@@ -13,16 +14,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>On odpuszcza każdy mój grzech – miłosierny jest.<br/>Każdy smutek zamienia w śmiech –<br/>zna liczbę moich łez.<br/>Twoje święte Ciało i Krew otwiera mi oczy.<br/>Widzę uśmiech łagodny Twój, teraz i tu.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>Odnawiasz moje siły jak orła, jak młodego orła do lotu porywasz mnie.<br/>Odnawiasz moje siły od nowa, dajesz mi moc i podnosisz mnie!</lines>
+      <lines><chord name="E"/>On odpuszcza każdy mój grzech – <br/>miłosierny  <chord name="A"/>jest.<br/><chord name="E"/>Każdy smutek zamienia w śmiech – <br/>zna liczbę moich <chord name="A"/>łez.<br/><chord name="E"/>Twoje święte Ciało i Krew<br/>otwiera mi <chord name="A"/>oczy.<br/><chord name="E"/>Widzę uśmiech łagodny Twój,<br/>teraz i <chord name="A"/>tu.<br/>Od<chord name="H"/>nawiasz moje siły jak or<chord name="C#m"/>ła.<br/>Jak młodego <chord name="H"/>orła do lotu<br/>po<chord name="C#m"/>rywasz mnie.   <br/>Od<chord name="H"/>nawiasz moje siły od no<chord name="C#m"/>wa.<br/>Dajesz mi <chord name="H"/>moc<br/>i podnosisz mnie!</lines>
     </verse>
     <verse name="c1">
-      <lines>To Ty, obecny wśród nas,<br/>Twoja chwała zstępuje,<br/>Twoja chwała ogarnia nas.<br/>To Ty, obecny wśród nas,<br/>Twoją miłość przyjmuję. Teraz jest łaski czas.</lines>
+      <lines>To <chord name="A"/>Ty, obecny wśród na<chord name="C#m"/>s, <br/>Twoja chwała zstępu<chord name="H"/>je,<br/>Twoja chwała o<chord name="F#m"/>garnia nas.  <br/>To <chord name="A"/>Ty, obecny wśród na<chord name="C#m"/>s,<br/>Twoją miłość przyjmu<chord name="H"/>ję<br/> Teraz jest <chord name="F#m"/>łaski czas.<br/><p style="page-break-after: always;"/><br/>To <chord name="A"/>Ty, obecny wśród na<chord name="C#m"/>s,<br/>Twoja chwała zstępu<chord name="H"/>je,<br/>Twoja chwała u<chord name="F#m"/>walnia nas.<br/>To <chord name="A"/>Ty, obecny wśród na<chord name="C#m"/>s<br/>Twoją miłość przyjmu<chord name="H"/>ję. <br/><chord name="A"/>Jesteś tu…</lines>
     </verse>
-    <verse name="c2">
-      <lines>To Ty, obecny wśród nas,<br/>Twoja chwała zstępuje,<br/>Twoja chwała uwalnia nas.<br/>To Ty obecny wśród nas<br/>Twoją miłość przyjmuję. Jesteś tu.</lines>
+    <verse name="v2">
+      <lines><chord name="E"/>On z choroby uzdrawia mnie –<br/>tak potężny <chord name="A"/>jest.<br/><chord name="E"/>Każdy ciemność rozjaśnić chce –<br/>nadzieją zmienia <chord name="A"/>mnie.<br/><chord name="E"/>Twoje święte Słowo i Krzyż<br/>wskazują mi <chord name="A"/>drogę.<br/><chord name="E"/>Zmartwychwstałeś i żyjesz dziś,<br/>teraz i <chord name="A"/>tu.<br/>Od<chord name="H"/>nawiasz moje siły jak or<chord name="C#m"/>ła.<br/>Jak młodego <chord name="H"/>orła do lotu<br/>po<chord name="C#m"/>rywasz mnie.   <br/>Od<chord name="H"/>nawiasz moje siły od no<chord name="C#m"/>wa.<br/>Dajesz mi <chord name="H"/>moc<br/>i podnosisz mnie!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>U<chord name="A"/>wielbiam, nie zapo<chord name="C#m"/>minam –<br/>tyle daje<chord name="H"/>sz mi co<chord name="A"/>dziennie.<br/>U<chord name="A"/>wielbiam, nie zapo<chord name="C#m"/>minam –<br/>tyle daje<chord name="H"/>sz mi swej <chord name="F#m"/>łaski.<br/></lines>
     </verse>
   </lyrics>
 </song>
