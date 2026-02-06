@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-05T20:55:43">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:31:01">
   <properties>
     <titles>
       <title>Mój Jezu, mój Zbawco</title>
@@ -14,19 +14,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines break="optional">M<chord name="A"/>ój Jez<chord name="E"/>u, mój Zbawco<chord name="F#m"/>,</lines>
-      <lines break="optional">któż jest t<chord name="E"/>ak wielki <chord name="D"/>jak Ty?<br/>Przez wszystkie <chord name="A"/>dni<chord name="D"/> wysławia<chord name="A"/>ć chcę</lines>
-      <lines break="optional">w<chord name="F#m"/>spaniałe <chord name="G"/>dzieła T<chord name="E"/>woich rąk.<br/>M<chord name="A"/>ój Panie<chord name="E"/>, Obrońco<chord name="F#m"/>,</lines>
-      <lines break="optional">źródło mych<chord name="E"/> natchni<chord name="D"/>eń i sił.<br/>Niech cały <chord name="A"/>świat<chord name="D"/>, wszystko c<chord name="A"/>o je<chord name="F#m"/>st,</lines>
-      <lines>zawsze wielbi <chord name="G"/>Im<chord name="G/F#"/>ię    T<chord name="E"/>we.</lines>
+      <lines break="optional">M<chord name="E"/>ój Jez<chord name="H"/>u, mój Zbawco<chord name="C#m"/>,</lines>
+      <lines break="optional">któż jest t<chord name="H"/>ak wielki <chord name="A"/>jak Ty?<br/>Przez wszystkie <chord name="E"/>dni<chord name="A"/> wysławia<chord name="E"/>ć chcę</lines>
+      <lines break="optional">w<chord name="C#m"/>spaniałe <chord name="D"/>dzieła T<chord name="H"/>woich rąk.<br/>M<chord name="E"/>ój Panie<chord name="H"/>, Obrońco<chord name="C#m"/>,</lines>
+      <lines break="optional">źródło mych<chord name="H"/> natchni<chord name="A"/>eń i sił.<br/>Niech cały <chord name="E"/>świat<chord name="A"/>, wszystko c<chord name="E"/>o je<chord name="C#m"/>st,</lines>
+      <lines>zawsze wielbi <chord name="D"/>Im<chord name="D/C#"/>ię    T<chord name="H"/>we.</lines>
     </verse>
     <verse name="c1">
-      <lines break="optional"><chord name="A"/>Krzycz na cześć <chord name="F#m"/>Pana,</lines>
-      <lines break="optional">ro<chord name="D"/>zraduj się <chord name="E"/>w Nim.<br/><chord name="A"/>Ogłaszaj <chord name="F#m"/>wszędzie,</lines>
-      <lines break="optional">ż<chord name="D"/>e On Pane<chord name="E"/>m jest.<br/>G<chord name="F#m"/>óry ustąpią na <chord name="D"/>dźwięk Jego słów,<br/>gdy prze<chord name="E"/>mówi <chord name="D"/>Stwórca z<chord name="E"/>ie<chord name="E7"/>m.<br/><p style="page-break-after: always;"/><br/>P<chord name="A"/>atrzę z po<chord name="F#m"/>dziwem</lines>
-      <lines break="optional">na <chord name="D"/>dzieła Twy<chord name="E"/>ch rąk.<br/>Z<chord name="A"/>awsze chcę k<chord name="F#m"/>ochać Cię,</lines>
-      <lines break="optional"><chord name="D"/> przy Tob<chord name="E"/>ie być.<br/><chord name="F#m"/>Co może równać się z<chord name="D"/> tym,</lines>
-      <lines>co <chord name="E"/>u Ciebie<chord name="A"/> mam.</lines>
+      <lines break="optional"><chord name="E"/>Krzycz na cześć <chord name="C#m"/>Pana,</lines>
+      <lines break="optional">ro<chord name="A"/>zraduj się <chord name="H"/>w Nim.<br/><chord name="E"/>Ogłaszaj <chord name="C#m"/>wszędzie,</lines>
+      <lines break="optional">ż<chord name="A"/>e On Pane<chord name="H"/>m jest.<br/>G<chord name="C#m"/>óry ustąpią na <chord name="A"/>dźwięk Jego słów,<br/>gdy prze<chord name="H"/>mówi <chord name="A"/>Stwórca z<chord name="H"/>ie<chord name="H7"/>m.<br/><p style="page-break-after: always;"/><br/>P<chord name="E"/>atrzę z po<chord name="C#m"/>dziwem</lines>
+      <lines break="optional">na <chord name="A"/>dzieła Twy<chord name="H"/>ch rąk.<br/>Z<chord name="E"/>awsze chcę k<chord name="C#m"/>ochać Cię,</lines>
+      <lines break="optional"><chord name="A"/> przy Tob<chord name="H"/>ie być.<br/><chord name="C#m"/>Co może równać się z<chord name="A"/> tym,</lines>
+      <lines>co <chord name="H"/>u Ciebie<chord name="E"/> mam.</lines>
     </verse>
   </lyrics>
 </song>
