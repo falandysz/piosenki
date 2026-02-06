@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T12:57:37">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T13:58:19">
   <properties>
     <titles>
       <title>Widzę dom</title>
@@ -28,15 +28,11 @@
   <lyrics>
     <verse name="i1">
       <lines>
-        <tag name="h">Metrum 6/8</tag>
-        <br/>
-        <tag name="h">Na gitarze możesz założyć kapodaster na 3. progu i grać w G-dur.</tag>
-        <br/>
-        <tag name="h">Na pianinie możesz transponować o 3 półtony w górę i grać w G-dur.</tag>
+        <tag name="h"><chord name="B"/>6/8<br/>Na gitarze użyj kapodastera na 3. progu i graj w G.<br/><br/>Na pianinie transponuj o 3 półtony w górę i graj w G.</tag>
       </lines>
     </verse>
     <verse name="v1">
-      <lines><chord name="B"/>Widzę Dom, w nim otwarte drzwi.<br/><chord name="Gm"/>Ojciec <chord name="F"/>czeka <chord name="Eb"/>na mnie w nich.<br/><br/><chord name="B"/>Woła mnie.<br/>Wiem, że mogę wejść.<br/><chord name="Gm"/>On op<chord name="F"/>atrzy <chord name="Eb"/>rany me. <br/><br/><chord name="Gm"/>Wiele <chord name="F"/>bitew <chord name="Eb"/>za mną jest.</lines>
+      <lines><chord name="B"/>Widzę Dom, w nim otwarte drzwi.<br/><chord name="Gm"/>Ojciec <chord name="F"/>czeka <chord name="Eb"/>na mnie w nich.<br/><br/><chord name="B"/>Woła mnie.<br/>Wiem, że <chord name="B"/>mogę wejść.<br/><chord name="Gm"/>On op<chord name="F"/>atrzy <chord name="Eb"/>rany me. <br/><br/><chord name="Gm"/>Wiele <chord name="F"/>bitew <chord name="Eb"/>za mną jest.</lines>
     </verse>
     <verse name="v2">
       <lines break="optional"><chord name="B"/>To czas, by ucztować. <br/><br/>W sercu mam <chord name="Gm"/>pokój,</lines>
