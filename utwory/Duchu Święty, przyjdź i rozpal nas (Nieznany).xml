@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T10:29:56">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:03:55">
   <properties>
     <titles>
       <title>Duchu Święty, przyjdź i rozpal nas</title>
     </titles>
-    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <verseOrder>i1 c1 v1 c1 v2 c1 v3 c1</verseOrder>
     <authors>
       <author>Nieznany</author>
     </authors>
@@ -22,6 +22,14 @@
     </tags>
   </format>
   <lyrics>
+    <verse name="i1">
+      <lines>
+        <tag name="h"><chord name="Am"/>6/8 bardzo spokojnie</tag>
+      </lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="Am"/>Duchu <chord name="F"/>Święty!<br/><tag name="h"><chord name="Dm"/>Duchu <chord name="E"/>Święty!</tag></lines>
+    </verse>
     <verse name="v1">
       <lines break="optional">O <chord name="Am"/>przyjdź</lines>
       <lines break="optional">i rozpal <chord name="F"/>nas,</lines>
@@ -36,9 +44,6 @@
       <lines break="optional">O <chord name="Am"/>przyjdź</lines>
       <lines break="optional">i utul <chord name="F"/>nas,</lines>
       <lines>rozkochaj <chord name="Dm"/>nas!<br/><br/>Miłość nam <chord name="E"/>daj!</lines>
-    </verse>
-    <verse name="c1">
-      <lines><chord name="Am"/>Duchu <chord name="F"/>Święty!<br/><tag name="h"><chord name="Dm"/>Duchu <chord name="E"/>Święty!</tag></lines>
     </verse>
   </lyrics>
 </song>
