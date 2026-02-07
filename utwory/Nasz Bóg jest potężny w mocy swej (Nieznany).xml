@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-06T14:18:17">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-02-07T12:38:54">
   <properties>
     <titles>
       <title>Nasz Bóg jest potężny w mocy swej</title>
@@ -13,7 +13,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Nasz Bóg, jest potężny <br/>w mocy swej.<br/>Króluje nad nami dziś,<br/>znieba rządzi w mocy miłości,<br/>mądrości swej.</lines>
+      <lines><chord name="Em"/>Nasz <chord name="C"/>Bóg,<br/>jest pot<chord name="G"/>ężny w mocy sw<chord name="D"/>ej.<br/>Król<chord name="Em"/>uje nad nami dz<chord name="C"/>iś,<br/>z nieba rz<chord name="G"/>ądzi w mocy mił<chord name="D"/>ości,<br/>mądr<chord name="Hm"/>ości sw<chord name="Em"/>ej.</lines>
     </verse>
   </lyrics>
 </song>
