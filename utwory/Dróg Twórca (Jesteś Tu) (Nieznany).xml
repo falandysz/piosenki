@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-06T17:07:14">
+  <properties>
+    <titles>
+      <title>Dróg Twórca (Jesteś Tu)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 b1 c1</verseOrder>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="h">
+        <open>&lt;span style="display:none"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nikt Ci nie doró<chord name="C2"/>wna<chord name="D"/><br/>Panie na<chord name="G"/>sz<br/>Nadal czynisz cu<chord name="C2"/>da<chord name="D"/><br/>wiecznie tr<chord name="G"/>wasz<br/>Tak jak łago<chord name="C2"/>dny wi<chord name="D"/>atr<br/>zjawiasz się p<chord name="G"/>ośr<chord name="G/F#"/>ód na<chord name="Em"/>s<br/>Tak jak potę<chord name="C2"/>żny Kr<chord name="D"/>ól, jesteś tu<chord name="G"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Blisko Ciebie chcę dzisiaj być<br/>Pragnę widzieć jak widzisz Ty<br/>Niech poru<chord name="C2"/>sza się wokół Twój Du<chord name="G"/>ch<chord name="G/F#"/><br/>Jesteś tu<chord name="Em"/>, jesteś tu<chord name="D"/><br/>Blisko Ci<chord name="C2"/>ebie chcę dzisiaj być<chord name="G"/><br/>Pragnę wi<chord name="Am"/>dzieć jak widzisz Ty<chord name="D"/><br/>Niech przem<chord name="C2"/>ienia mnie moc Twoich słów.<chord name="G"/><chord name="G/F#"/> Jesteś tu<chord name="Em"/>, jesteś tu.<chord name="D"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>W Twojej obecn<chord name="C2"/>ości<chord name="D"/><br/>zmieniam się<chord name="G"/><br/>W niepojętej ła<chord name="C2"/>sce<chord name="D"/><br/>kochasz mnie<chord name="G"/><br/>Tak jak łago<chord name="C2"/>dny w<chord name="D"/>iatr<br/>zjawiasz się p<chord name="G"/>ośr<chord name="G/F#"/>ód nas<chord name="Em"/><br/>Tak jak potę<chord name="C2"/>żny Kr<chord name="D"/>ól, jesteś tu<chord name="G"/></lines>
+    </verse>
+    <verse name="b1">
+      <lines>Jesteś <chord name="C2"/>tu.<chord name="Am7"/><br/><tag name="h">Jesteś<chord name="Em"/> tu<chord name="D"/><br/>Jesteś<chord name="C2"/> tu,<chord name="Am7"/><br/>Jesteś<chord name="Em"/> tu<chord name="D"/></tag></lines>
+    </verse>
+  </lyrics>
+</song>

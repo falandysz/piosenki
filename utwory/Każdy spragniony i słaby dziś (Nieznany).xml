@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-03-06T17:20:48">
+  <properties>
+    <titles>
+      <title>Każdy spragniony i słaby dziś</title>
+    </titles>
+    <authors>
+      <author>Nieznany</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Każdy spragni<chord name="E"/>ony i słaby <chord name="G#m7"/>dziś<br/>niech przyjdzie do źródła,<chord name="A"/><br/>w strumieniu życia z<chord name="F#m7"/>anurz<chord name="G#m7"/>y się.<chord name="A"/><br/><chord name="H"/>Wszelki ból i cierpieni<chord name="E"/>e<br/>niech odpłyną w dal<chord name="G#m7"/>.<br/>W morzu Jego miłości<chord name="A"/><br/>serca uleczy <chord name="F#m7"/>dzisi<chord name="G#m7"/>aj Pa<chord name="A"/>n.<chord name="H"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pan<chord name="E"/>ie Je<chord name="A"/>zu, prz<chord name="H"/>yjdź!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Du<chord name="E"/>chu Świę<chord name="A"/>ty, prz<chord name="H"/>yjdź!</lines>
+    </verse>
+  </lyrics>
+</song>
