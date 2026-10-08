@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Śpiewnik</title>
+    <style>
+      :root {
+        --bg-1: #071827;
+        --bg-2: #12273b;
+        --panel: rgba(10, 20, 33, 0.82);
+        --panel-alt: rgba(19, 35, 56, 0.88);
+        --sidebar: rgba(12, 25, 40, 0.9);
+        --border: rgba(148, 163, 184, 0.15);
+        --text: #edf6ff;
+        --muted: #c9d9ef;
+        --accent: #fbbf24;
+        --accent-2: #7dd3fc;
+        --shadow: rgba(2, 6, 23, 0.53);
+      }
+
+      * { box-sizing: border-box; }
+
+      html, body {
+        margin: 0;
+        min-height: 100%;
+        height: 100%;
+        background: linear-gradient(135deg, var(--bg-1), var(--bg-2));
+        color: var(--text);
+        font-family: "Segoe UI", Tahoma, sans-serif;
+      }
+
+      body {
+        min-height: 100vh;
+      }
+
+      .app {
+        display: grid;
+        grid-template-columns: 320px minmax(0, 1fr);
+        min-height: 100vh;
+      }
+
+      .sidebar {
+        background: var(--sidebar);
+        border-right: 1px solid var(--border);
+        padding: 1.2rem 0.9rem;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .brand {
+        font-size: 1.75rem;
+        font-weight: 800;
+        letter-spacing: -0.04em;
+        margin: 0.2rem 0 1rem;
+      }
+
+      .search {
+        width: 100%;
+        border: 1px solid var(--border);
+        background: rgba(15, 23, 42, 0.8);
+        color: var(--text);
+        border-radius: 12px;
+        padding: 0.8rem 0.9rem;
+        font-size: 1rem;
+        outline: none;
+      }
+
+      .search:focus {
+        border-color: rgba(125, 211, 252, 0.7);
+        box-shadow: 0 0 0 3px rgba(125, 211, 252, 0.18);
+      }
+
+      .song-list {
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.45rem;
+        overflow: auto;
+        padding-right: 0.25rem;
+      }
+
+      .song-item {
+        width: 100%;
+        border: 1px solid transparent;
+        background: rgba(15, 23, 42, 0.42);
+        color: var(--text);
+        border-radius: 12px;
+        padding: 0.8rem 0.85rem;
+        text-align: left;
+        cursor: pointer;
+        transition: 0.18s ease;
+        font-size: 0.95rem;
+        line-height: 1.3;
+      }
+
+      .song-item:hover,
+      .song-item.active {
+        background: rgba(125, 211, 252, 0.14);
+        border-color: rgba(125, 211, 252, 0.35);
+      }
+
+      .viewer {
+        padding: clamp(1rem, 2vw, 2rem);
+      }
+
+      .sheet {
+        max-width: 980px;
+        margin: 0 auto;
+        background: rgba(5, 15, 24, 0.56);
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        box-shadow: 0 28px 70px var(--shadow);
+        padding: 2rem clamp(1rem, 2vw, 2.1rem);
+      }
+
+      .song-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        gap: 1rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--border);
+        margin-bottom: 1.4rem;
+      }
+
+      .song-title {
+        margin: 0;
+        font-size: clamp(2rem, 4vw, 3rem);
+        line-height: 1.1;
+        letter-spacing: -0.04em;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.55rem 1.1rem;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+
+      .meta strong {
+        color: var(--text);
+      }
+
+      .verse {
+        margin-top: 1.8rem;
+      }
+
+      .verse-name {
+        font-size: 0.72rem;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: var(--accent-2);
+        margin-bottom: 0.8rem;
+        font-weight: 700;
+      }
+
+      .line {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        gap: 0.1em 0.2em;
+        margin: 0.7em 0;
+      }
+
+      .word {
+        display: inline-flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+        min-height: 2.7em;
+      }
+
+      .chord {
+        display: inline-block;
+        min-height: 1.1em;
+        font-size: 0.72rem;
+        font-weight: 800;
+        line-height: 1;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--accent);
+      }
+
+      .text {
+        display: inline-block;
+        font-size: clamp(1.15rem, 2vw, 2rem);
+        line-height: 1.2;
+        font-family: Georgia, "Times New Roman", serif;
+        letter-spacing: 0.015em;
+      }
+
+      .line-break {
+        flex-basis: 100%;
+        height: 0.12rem;
+        width: 100%;
+        margin-top: 0.25rem;
+        border-radius: 999px;
+        background: linear-gradient(90deg, transparent, rgba(125, 211, 252, 0.7), transparent);
+      }
+
+      .empty-state,
+      .loading,
+      .error {
+        color: var(--muted);
+        font-size: 1.06rem;
+      }
+
+      @media (max-width: 860px) {
+        .app {
+          grid-template-columns: 1fr;
+        }
+
+        .sidebar {
+          border-right: none;
+          border-bottom: 1px solid var(--border);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar">
+        <h1 class="brand">Śpiewnik</h1>
+        <input id="search" class="search" type="text" placeholder="Szukaj utworu..." aria-label="Szukaj utworu" />
+        <div id="songList" class="song-list"></div>
+      </aside>
+
+      <main class="viewer">
+        <article class="sheet">
+          <header class="song-header">
+            <h2 id="title" class="song-title">Ładowanie…</h2>
+            <div class="meta">
+              <span><strong>Autor:</strong> <span id="author">–</span></span>
+              <span><strong>Motyw:</strong> <span id="theme">–</span></span>
+            </div>
+          </header>
+
+          <div id="content" class="content">
+            <p class="loading">Ładowanie utworu…</p>
+          </div>
+        </article>
+      </main>
+    </div>
+
+    <script>
+      const contentEl = document.getElementById('content');
+      const titleEl = document.getElementById('title');
+      const authorEl = document.getElementById('author');
+      const themeEl = document.getElementById('theme');
+      const songListEl = document.getElementById('songList');
+      const searchInput = document.getElementById('search');
+
+      let songs = [];
+      let selectedSong = null;
+
+      function renderWord(wordText, chordName) {
+        const word = document.createElement('span');
+        word.className = 'word';
+
+        if (chordName) {
+          const chord = document.createElement('span');
+          chord.className = 'chord';
+          chord.textContent = chordName;
+          word.appendChild(chord);
+        }
+
+        const text = document.createElement('span');
+        text.className = 'text';
+        text.textContent = wordText;
+        word.appendChild(text);
+
+        return word;
+      }
+
+      function renderLine(lineNode) {
+        const line = document.createElement('div');
+        line.className = 'line';
+
+        let pendingChord = null;
+
+        for (const node of [...lineNode.childNodes]) {
+          if (node.nodeType === Node.TEXT_NODE) {
+            const tokens = (node.textContent || '').split(/(\s+)/);
+
+            for (const token of tokens) {
+              if (!token) continue;
+
+              if (/^\s+$/.test(token)) {
+                const spacer = document.createElement('span');
+                spacer.textContent = token;
+                spacer.style.whiteSpace = 'pre';
+                line.appendChild(spacer);
+                continue;
+              }
+
+              const wordText = token.trim();
+              if (!wordText) continue;
+
+              const word = renderWord(wordText, pendingChord);
+              pendingChord = null;
+              line.appendChild(word);
+            }
+          } else if (node.nodeName === 'chord') {
+            pendingChord = node.getAttribute('name') || null;
+          } else if (node.nodeName === 'br') {
+            const divider = document.createElement('div');
+            divider.className = 'line-break';
+            line.appendChild(divider);
+          }
+        }
+
+        return line;
+      }
+
+      function renderSong(xmlText) {
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(xmlText, 'application/xml');
+        const parserError = xmlDoc.querySelector('parsererror');
+
+        if (parserError) {
+          throw new Error('Nie udało się poprawnie odczytać pliku XML.');
+        }
+
+        const song = xmlDoc.documentElement;
+        const title = song.getElementsByTagName('title')[0]?.textContent?.trim() || 'Tytuł utworu';
+        const author = song.getElementsByTagName('author')[0]?.textContent?.trim() || 'Nieznany';
+        const theme = song.getElementsByTagName('theme')[0]?.textContent?.trim() || 'worship';
+
+        document.title = title;
+        titleEl.textContent = title;
+        authorEl.textContent = author;
+        themeEl.textContent = theme;
+
+        const verseContainer = document.createElement('div');
+        const verses = song.getElementsByTagName('verse');
+
+        if (!verses.length) {
+          throw new Error('Brak zwrotek w pliku XML.');
+        }
+
+        for (const verse of verses) {
+          const verseWrap = document.createElement('section');
+          verseWrap.className = 'verse';
+
+          const verseName = verse.getAttribute('name') || 'zwrotka';
+          const verseLabel = document.createElement('div');
+          verseLabel.className = 'verse-name';
+          verseLabel.textContent = verseName;
+          verseWrap.appendChild(verseLabel);
+
+          const lines = verse.getElementsByTagName('lines');
+          for (const lineNode of lines) {
+            verseWrap.appendChild(renderLine(lineNode));
+          }
+
+          verseContainer.appendChild(verseWrap);
+        }
+
+        contentEl.innerHTML = '';
+        contentEl.appendChild(verseContainer);
+      }
+
+      function renderSongList(filteredSongs) {
+        if (!filteredSongs.length) {
+          songListEl.innerHTML = '<p class="empty-state">Brak utworów spełniających kryteria.</p>';
+          return;
+        }
+
+        songListEl.innerHTML = filteredSongs.map((song) => `
+          <button class="song-item ${selectedSong && selectedSong.id === song.id ? 'active' : ''}" data-id="${song.id}" type="button">
+            ${song.title}
+          </button>
+        `).join('');
+
+        songListEl.querySelectorAll('.song-item').forEach((button) => {
+          button.addEventListener('click', async () => {
+            const song = filteredSongs.find(item => item.id === button.dataset.id);
+            if (!song) return;
+            await loadSong(song);
+          });
+        });
+      }
+
+      async function loadSong(song) {
+        selectedSong = song;
+        titleEl.textContent = 'Ładowanie…';
+        authorEl.textContent = '–';
+        themeEl.textContent = '–';
+        contentEl.innerHTML = '<p class="loading">Ładowanie utworu…</p>';
+
+        try {
+          const response = await fetch(song.path, { cache: 'no-store' });
+          if (!response.ok) throw new Error(`Nie udało się pobrać utworu (${response.status})`);
+          const xmlText = await response.text();
+          renderSong(xmlText);
+          renderSongList(getFilteredSongs());
+        } catch (error) {
+          contentEl.innerHTML = `<p class="error">${error.message}</p>`;
+          console.error(error);
+        }
+      }
+
+      function getFilteredSongs() {
+        const query = searchInput.value.trim().toLowerCase();
+        if (!query) return songs;
+        return songs.filter((song) => `${song.title} ${song.author} ${song.theme}`.toLowerCase().includes(query));
+      }
+
+      async function init() {
+        const response = await fetch('./songs.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error('Brak listy utworów.');
+        songs = await response.json();
+
+        if (!songs.length) {
+          contentEl.innerHTML = '<p class="empty-state">Brak utworów w katalogu.</p>';
+          return;
+        }
+
+        renderSongList(songs);
+        await loadSong(songs[0]);
+      }
+
+      searchInput.addEventListener('input', () => {
+        const filteredSongs = getFilteredSongs();
+        renderSongList(filteredSongs);
+        if (filteredSongs.length && (!selectedSong || !filteredSongs.some((song) => song.id === selectedSong.id))) {
+          loadSong(filteredSongs[0]);
+        }
+      });
+
+      init().catch((error) => {
+        contentEl.innerHTML = `<p class="error">${error.message}</p>`;
+        console.error(error);
+      });
+    </script>
+  </body>
+</html>
